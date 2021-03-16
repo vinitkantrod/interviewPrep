@@ -1,0 +1,10 @@
+
+ƒ
+java:S4165"hRemove this useless assignment; "finalRange" already holds the assigned value along all execution paths.(„‹–Úùÿÿÿÿ
+~
+java:S4165"hRemove this useless assignment; "finalRange" already holds the assigned value along all execution paths.(í¯±Ë
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ççöö
+N	java:S106"9Replace this use of System.out or System.err by a logger.(çš‘‚
+S
+java:S1197"8Move the array designator from the variable to the type.(¡þÏÖøÿÿÿÿ

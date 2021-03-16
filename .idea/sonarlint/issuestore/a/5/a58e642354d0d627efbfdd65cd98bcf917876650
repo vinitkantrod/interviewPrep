@@ -1,0 +1,10 @@
+
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(®òÜÊûÿÿÿÿ8ŸÖáÇû.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(…‚‹Æüÿÿÿÿ8ù­àÇû.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(…‚‹Æüÿÿÿÿ8ò¼æÇû.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(…‚‹Æüÿÿÿÿ8–¶äÇû.
+m
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(Øò¹8çÃøÆû.
+F
+java:S1481")Remove this unused "done" local variable.(èµ®“8’èÇû.

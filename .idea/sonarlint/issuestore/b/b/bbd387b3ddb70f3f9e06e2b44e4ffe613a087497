@@ -1,0 +1,25 @@
+
+†
+java:S1319"pThe type of the "next" object should be an interface such as "List" rather than the implementation "LinkedList".(îŒ¤
+Œ
+java:S1319"qThe return type of this method should be an interface such as "List" rather than the implementation "LinkedList".(®ÜŞûÿÿÿÿ
+”
+java:S1319"yThe type of the "linkedListOne" object should be an interface such as "List" rather than the implementation "LinkedList".(®ÜŞûÿÿÿÿ
+”
+java:S1319"yThe type of the "linkedListTwo" object should be an interface such as "List" rather than the implementation "LinkedList".(®ÜŞûÿÿÿÿ
+ƒ
+java:S1319@"mThe type of the "h" object should be an interface such as "List" rather than the implementation "LinkedList".(ÿ‰ÀŒ
+l
+java:S1104"QMake value a static final constant or non-public and provide accessors if needed.(‚¯¥ùÿÿÿÿ
+f
+java:S1104"PMake next a static final constant or non-public and provide accessors if needed.(îŒ¤
+R
+java:S2589 "7Remove this expression which always evaluates to "true"(Ğ­”Éşÿÿÿÿ
+m
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(®ÜŞûÿÿÿÿ
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(ñ·™¶ÿÿÿÿÿ
+S	java:S1068"9Replace this use of System.out or System.err by a logger.(í„¾±ıÿÿÿÿ
+N	java:S106D"9Replace this use of System.out or System.err by a logger.(Ì™ïì
+N	java:S106G"9Replace this use of System.out or System.err by a logger.(°ÒÚ”
+S
+java:S1197J"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ

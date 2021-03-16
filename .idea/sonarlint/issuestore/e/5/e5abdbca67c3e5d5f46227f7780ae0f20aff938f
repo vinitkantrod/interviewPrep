@@ -1,0 +1,17 @@
+
+
+java:S1319"zThe type of the "redShirtHeights" object should be an interface such as "List" rather than the implementation "ArrayList".(ª»›«
+
+java:S1319"{The type of the "blueShirtHeights" object should be an interface such as "List" rather than the implementation "ArrayList".(•¤è%
+
+java:S1319!"zThe type of the "redShirtHeights" object should be an interface such as "List" rather than the implementation "ArrayList".(™Ì»Á
+‘
+java:S1319""{The type of the "blueShirtHeights" object should be an interface such as "List" rather than the implementation "ArrayList".(»•áª
+F
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
+>
+java:S1125%"(Remove the literal "true" boolean value.(’‚Ì
+S
+java:S1197("8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ
+S	java:S106+"9Replace this use of System.out or System.err by a logger.(ÜâÉ¨üÿÿÿÿ
+V	java:S125#"<This block of commented-out lines of code should be removed.(€öùáúÿÿÿÿ
