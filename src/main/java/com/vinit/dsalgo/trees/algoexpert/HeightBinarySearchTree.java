@@ -1,7 +1,5 @@
 package com.vinit.dsalgo.trees.algoexpert;
 
-import com.sun.org.apache.xpath.internal.operations.Bool;
-
 public class HeightBinarySearchTree {
 
     static class BinaryTree {
