@@ -5,197 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7f3e18b9-d64e-45b5-bd3c-1910ff52c002" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algorithms/algoexpert/KadanesAlgorithm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/arrays/algoexpert/ApartmentHunting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/arrays/algoexpert/MinimumAreaRectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/arrays/algoexpert/WaterfallStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/dynamic_programming/algoexpert/NumberOfWaysToTraverseGraph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/heap/algoexpert/ContinousMedian.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/heap/algoexpert/MergeSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/heap/algoexpert/MinHeapConstruction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/heap/algoexpert/SortKSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/strings/algoexpert/GroupAnagram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/strings/algoexpert/ReverseWordsInString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/strings/algoexpert/ValidIpAddress.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/tries/SuffixTriesConstruction.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/linkedlist/leetcode/SwapNodesInPair.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/linkedlist/leetcode/SwapNodesInPair.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/linkedlist/narasimha_karumanchi_book/LL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/linkedlist/narasimha_karumanchi_book/LL.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/strings/leetcode/WordBreak.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/strings/leetcode/WordBreak.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/trees/algoexpert/HeightBinarySearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/trees/algoexpert/HeightBinarySearchTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/arrays/algoexpert/ArraysOfProduct.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/arrays/algoexpert/ArraysOfProduct.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/arrays/algoexpert/CalendarMatching$Meeting.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/arrays/algoexpert/CalendarMatching$Meeting.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/arrays/algoexpert/CalendarMatching$StringMeeting.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/arrays/algoexpert/CalendarMatching$StringMeeting.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/arrays/algoexpert/CalendarMatching.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/arrays/algoexpert/CalendarMatching.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/arrays/algoexpert/CombinationOfArrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/arrays/algoexpert/CombinationOfArrays.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/arrays/algoexpert/FirstDuplicateValues.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/arrays/algoexpert/FirstDuplicateValues.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/arrays/algoexpert/FourNumberSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/arrays/algoexpert/FourNumberSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/arrays/algoexpert/MinRewards.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/arrays/algoexpert/MinRewards.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/arrays/algoexpert/NonConstructibleChange.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/arrays/algoexpert/NonConstructibleChange.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/arrays/algoexpert/SortedSquareArrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/arrays/algoexpert/SortedSquareArrays.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/arrays/algoexpert/SpiralTraversal.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/arrays/algoexpert/SpiralTraversal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/arrays/algoexpert/TournamentWinner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/arrays/algoexpert/TournamentWinner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/arrays/algoexpert/ValidateSubSequence.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/arrays/algoexpert/ValidateSubSequence.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/arrays/algoexpert/ZigzagTraverse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/arrays/algoexpert/ZigzagTraverse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/arrays/interviewBit/GasStation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/arrays/interviewBit/GasStation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/arrays/leetcode/ThreeNumberSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/arrays/leetcode/ThreeNumberSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/arrays/leetcode/ThreeSumClosest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/arrays/leetcode/ThreeSumClosest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/arrays/leetcode/ThreeSumSmaller.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/arrays/leetcode/ThreeSumSmaller.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/arrays/leetcode/TwoSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/arrays/leetcode/TwoSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/constants/StringConstants.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/constants/StringConstants.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/dynamic_programming/algoexpert/KnapsackProblem.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/dynamic_programming/algoexpert/KnapsackProblem.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/dynamic_programming/algoexpert/LavenshteinDistance.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/dynamic_programming/algoexpert/LavenshteinDistance.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/dynamic_programming/algoexpert/LongestCommonSubsequence.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/dynamic_programming/algoexpert/LongestCommonSubsequence.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/dynamic_programming/algoexpert/LongestIncreasingSubsequence.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/dynamic_programming/algoexpert/LongestIncreasingSubsequence.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/dynamic_programming/algoexpert/MaxSumIncreasingSubsequence.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/dynamic_programming/algoexpert/MaxSumIncreasingSubsequence.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/dynamic_programming/algoexpert/MinNumberOfChangeOfCoin.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/dynamic_programming/algoexpert/MinNumberOfChangeOfCoin.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/dynamic_programming/algoexpert/MinNumberOfJumps.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/dynamic_programming/algoexpert/MinNumberOfJumps.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/dynamic_programming/algoexpert/NumbersInPi.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/dynamic_programming/algoexpert/NumbersInPi.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/dynamic_programming/algoexpert/WaterArea.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/dynamic_programming/algoexpert/WaterArea.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/graphs/algoexpert/BoggleWord$TrieNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/graphs/algoexpert/BoggleWord$TrieNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/graphs/algoexpert/BoggleWord$Tries.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/graphs/algoexpert/BoggleWord$Tries.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/graphs/algoexpert/BoggleWord.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/graphs/algoexpert/BoggleWord.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/graphs/algoexpert/BreadthFirstSearch$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/graphs/algoexpert/BreadthFirstSearch$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/graphs/algoexpert/BreadthFirstSearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/graphs/algoexpert/BreadthFirstSearch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/graphs/algoexpert/CyclesInGraph.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/graphs/algoexpert/CyclesInGraph.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/graphs/algoexpert/DepthFirstSearch$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/graphs/algoexpert/DepthFirstSearch$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/graphs/algoexpert/DepthFirstSearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/graphs/algoexpert/DepthFirstSearch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/graphs/algoexpert/RectangleMania$Point.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/graphs/algoexpert/RectangleMania$Point.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/graphs/algoexpert/RectangleMania.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/graphs/algoexpert/RectangleMania.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/graphs/algoexpert/RemoveIsland.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/graphs/algoexpert/RemoveIsland.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/graphs/algoexpert/RiverSize.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/graphs/algoexpert/RiverSize.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/graphs/algoexpert/SingleCycleCheck.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/graphs/algoexpert/SingleCycleCheck.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/graphs/algoexpert/YoungestCommonAncestor$AncestralTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/graphs/algoexpert/YoungestCommonAncestor$AncestralTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/graphs/algoexpert/YoungestCommonAncestor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/graphs/algoexpert/YoungestCommonAncestor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/greedy/algoexpert/ClassPhotos.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/greedy/algoexpert/ClassPhotos.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/greedy/algoexpert/MinimumWaitingTime.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/greedy/algoexpert/MinimumWaitingTime.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/greedy/algoexpert/TaskAssignment$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/greedy/algoexpert/TaskAssignment$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/greedy/algoexpert/TaskAssignment.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/greedy/algoexpert/TaskAssignment.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/greedy/algoexpert/ValidateStartingCity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/greedy/algoexpert/ValidateStartingCity.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/linkedlist/algoexpert/FindLoop$LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/linkedlist/algoexpert/FindLoop$LinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/linkedlist/algoexpert/FindLoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/linkedlist/algoexpert/FindLoop.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/linkedlist/algoexpert/LinedListPalindrome$LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/linkedlist/algoexpert/LinedListPalindrome$LinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/linkedlist/algoexpert/LinedListPalindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/linkedlist/algoexpert/LinedListPalindrome.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/linkedlist/algoexpert/MergeLL$LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/linkedlist/algoexpert/MergeLL$LinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/linkedlist/algoexpert/MergeLL.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/linkedlist/algoexpert/MergeLL.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/linkedlist/algoexpert/RearrangeLinkedList$LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/linkedlist/algoexpert/RearrangeLinkedList$LinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/linkedlist/algoexpert/RearrangeLinkedList$LinkedListPair.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/linkedlist/algoexpert/RearrangeLinkedList$LinkedListPair.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/linkedlist/algoexpert/RearrangeLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/linkedlist/algoexpert/RearrangeLinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/linkedlist/algoexpert/RemoveDuplicatesFromLL$LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/linkedlist/algoexpert/RemoveDuplicatesFromLL$LinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/linkedlist/algoexpert/RemoveDuplicatesFromLL.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/linkedlist/algoexpert/RemoveDuplicatesFromLL.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/linkedlist/algoexpert/RemoveKthNodeFromEnd$LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/linkedlist/algoexpert/RemoveKthNodeFromEnd$LinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/linkedlist/algoexpert/RemoveKthNodeFromEnd.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/linkedlist/algoexpert/RemoveKthNodeFromEnd.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/linkedlist/algoexpert/ReverseLL$LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/linkedlist/algoexpert/ReverseLL$LinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/linkedlist/algoexpert/ReverseLL.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/linkedlist/algoexpert/ReverseLL.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/linkedlist/algoexpert/ShiftLinkedList$LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/linkedlist/algoexpert/ShiftLinkedList$LinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/linkedlist/algoexpert/ShiftLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/linkedlist/algoexpert/ShiftLinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/linkedlist/algoexpert/SumOfLinkedList$LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/linkedlist/algoexpert/SumOfLinkedList$LinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/linkedlist/algoexpert/SumOfLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/linkedlist/algoexpert/SumOfLinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/linkedlist/leetcode/MergeInBetween$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/linkedlist/leetcode/MergeInBetween$ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/linkedlist/leetcode/MergeInBetween.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/linkedlist/leetcode/MergeInBetween.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/linkedlist/leetcode/OddEvenLinkedList$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/linkedlist/leetcode/OddEvenLinkedList$ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/linkedlist/leetcode/OddEvenLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/linkedlist/leetcode/OddEvenLinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/linkedlist/leetcode/RemoveNthNodeFromLast$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/linkedlist/leetcode/RemoveNthNodeFromLast$ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/linkedlist/leetcode/RemoveNthNodeFromLast.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/linkedlist/leetcode/RemoveNthNodeFromLast.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/linkedlist/leetcode/RotateList$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/linkedlist/leetcode/RotateList$ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/linkedlist/leetcode/RotateList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/linkedlist/leetcode/RotateList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/linkedlist/leetcode/SplitLinkedListInParts$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/linkedlist/leetcode/SplitLinkedListInParts$ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/linkedlist/leetcode/SplitLinkedListInParts.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/linkedlist/leetcode/SplitLinkedListInParts.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/linkedlist/leetcode/SwapNodesInPair$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/linkedlist/leetcode/SwapNodesInPair$ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/linkedlist/leetcode/SwapNodesInPair.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/linkedlist/leetcode/SwapNodesInPair.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/linkedlist/leetcode/SwappingNodes$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/linkedlist/leetcode/SwappingNodes$ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/linkedlist/leetcode/SwappingNodes.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/linkedlist/leetcode/SwappingNodes.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/linkedlist/narasimha_karumanchi_book/LL.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/linkedlist/narasimha_karumanchi_book/LL.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/linkedlist/narasimha_karumanchi_book/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/linkedlist/narasimha_karumanchi_book/Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/machine_coding/tic_tac_toe/ParkingLot$Parking.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/machine_coding/tic_tac_toe/ParkingLot$Parking.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/machine_coding/tic_tac_toe/ParkingLot$ParkingFloor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/machine_coding/tic_tac_toe/ParkingLot$ParkingFloor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/machine_coding/tic_tac_toe/ParkingLot.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/machine_coding/tic_tac_toe/ParkingLot.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/machine_coding/tic_tac_toe/SnakeAndLadder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/machine_coding/tic_tac_toe/SnakeAndLadder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/machine_coding/tic_tac_toe/TicTacToe.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/machine_coding/tic_tac_toe/TicTacToe.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/mathematics/afteracademy/ReverseBits.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/mathematics/afteracademy/ReverseBits.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/mathematics/afteracademy/RomanToInteger.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/mathematics/afteracademy/RomanToInteger.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/recursion/GetLowestCommonManager$OrgChart.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/recursion/GetLowestCommonManager$OrgChart.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/recursion/GetLowestCommonManager$OrgInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/recursion/GetLowestCommonManager$OrgInfo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/recursion/GetLowestCommonManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/recursion/GetLowestCommonManager.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/recursion/InterweavingString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/recursion/InterweavingString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/recursion/NumberOfBinaryTreeTopologies.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/recursion/NumberOfBinaryTreeTopologies.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/recursion/PhoneNumberMnemonic.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/recursion/PhoneNumberMnemonic.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/recursion/StairCaseTraversal.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/recursion/StairCaseTraversal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/recursion/Sudoku.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/recursion/Sudoku.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/searching/algoexpert/SearchForRange.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/searching/algoexpert/SearchForRange.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/searching/algoexpert/SearchInSortedMatrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/searching/algoexpert/SearchInSortedMatrix.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/searching/algoexpert/ShiftedBinarySearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/searching/algoexpert/ShiftedBinarySearch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/searching/algoexpert/ThreeLargestNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/searching/algoexpert/ThreeLargestNumbers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/sorting/algoexpert/BubbleSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/sorting/algoexpert/BubbleSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/sorting/algoexpert/HeapSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/sorting/algoexpert/HeapSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/sorting/algoexpert/InsertionSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/sorting/algoexpert/InsertionSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/sorting/algoexpert/KthlargestElemInArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/sorting/algoexpert/KthlargestElemInArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/sorting/algoexpert/MergeSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/sorting/algoexpert/MergeSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/sorting/algoexpert/QuickSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/sorting/algoexpert/QuickSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/sorting/algoexpert/SelectionSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/sorting/algoexpert/SelectionSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/sorting/algoexpert/SortNearlyKSortedArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/sorting/algoexpert/SortNearlyKSortedArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/sorting/algoexpert/ThreeNumberSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/sorting/algoexpert/ThreeNumberSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/stack/algoexpert/BalanceBrackets.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/stack/algoexpert/BalanceBrackets.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/stack/algoexpert/MinMaxStackPblm$MinMaxStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/stack/algoexpert/MinMaxStackPblm$MinMaxStack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/stack/algoexpert/MinMaxStackPblm.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/stack/algoexpert/MinMaxStackPblm.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/stack/algoexpert/PhoneNumberMnemonics.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/stack/algoexpert/PhoneNumberMnemonics.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/stack/algoexpert/ShortestPath.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/stack/algoexpert/ShortestPath.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/stack/algoexpert/SunsetViews.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/stack/algoexpert/SunsetViews.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/stack/hackerrank/LargestRectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/stack/hackerrank/LargestRectangle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/stack/hackerrank/LargestRectangleInHistogram.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/stack/hackerrank/LargestRectangleInHistogram.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/stack/hackerrank/SimpleTextEditor$Stack.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/stack/hackerrank/SimpleTextEditor$Stack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/stack/hackerrank/SimpleTextEditor$StackNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/stack/hackerrank/SimpleTextEditor$StackNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/stack/hackerrank/SimpleTextEditor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/stack/hackerrank/SimpleTextEditor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/stack/narasimha_karumanchi_book/ReverseStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/stack/narasimha_karumanchi_book/ReverseStack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/strings/algoexpert/GenerateDocument.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/strings/algoexpert/GenerateDocument.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/strings/algoexpert/LongestPalindromeSubString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/strings/algoexpert/LongestPalindromeSubString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/strings/algoexpert/RunLengthEncoding.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/strings/algoexpert/RunLengthEncoding.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/strings/leetcode/ConcatenatedWord.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/strings/leetcode/ConcatenatedWord.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/strings/leetcode/WordBreak.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/strings/leetcode/WordBreak.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/strings/narasimha_karumanchi_book/StringMatchingBruteForce.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/strings/narasimha_karumanchi_book/StringMatchingBruteForce.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/tests/hackerrank/DiskSpaceAnalysis.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/tests/hackerrank/DiskSpaceAnalysis.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/tests/hackerrank/ReachEndInTime.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/tests/hackerrank/ReachEndInTime.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/trees/algoexpert/BinaryTreeDiameter$BinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/trees/algoexpert/BinaryTreeDiameter$BinaryTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/trees/algoexpert/BinaryTreeDiameter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/trees/algoexpert/BinaryTreeDiameter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/trees/algoexpert/BranchSum$BinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/trees/algoexpert/BranchSum$BinaryTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/trees/algoexpert/BranchSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/trees/algoexpert/BranchSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/trees/algoexpert/FindNodesAtDistanceK$BinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/trees/algoexpert/FindNodesAtDistanceK$BinaryTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/trees/algoexpert/FindNodesAtDistanceK$Pair.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/trees/algoexpert/FindNodesAtDistanceK$Pair.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/trees/algoexpert/FindNodesAtDistanceK.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/trees/algoexpert/FindNodesAtDistanceK.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/trees/algoexpert/HeightBinarySearchTree$BinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/trees/algoexpert/HeightBinarySearchTree$BinaryTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/trees/algoexpert/HeightBinarySearchTree$TreeInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/trees/algoexpert/HeightBinarySearchTree$TreeInfo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/trees/algoexpert/HeightBinarySearchTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/trees/algoexpert/HeightBinarySearchTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/trees/algoexpert/InvertBinaryTree$BinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/trees/algoexpert/InvertBinaryTree$BinaryTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/trees/algoexpert/InvertBinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/trees/algoexpert/InvertBinaryTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/trees/algoexpert/IterativeInOrderTraversal$BinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/trees/algoexpert/IterativeInOrderTraversal$BinaryTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/trees/algoexpert/IterativeInOrderTraversal.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/trees/algoexpert/IterativeInOrderTraversal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/trees/algoexpert/KthLargestInBST$BST.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/trees/algoexpert/KthLargestInBST$BST.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/trees/algoexpert/KthLargestInBST$TreeInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/trees/algoexpert/KthLargestInBST$TreeInfo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/trees/algoexpert/KthLargestInBST.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/trees/algoexpert/KthLargestInBST.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/trees/algoexpert/KthLargestValueInBST$BST.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/trees/algoexpert/KthLargestValueInBST$BST.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/trees/algoexpert/KthLargestValueInBST$TreeInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/trees/algoexpert/KthLargestValueInBST$TreeInfo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/trees/algoexpert/KthLargestValueInBST.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/trees/algoexpert/KthLargestValueInBST.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/trees/algoexpert/MaxPathSumInBinaryTree$BinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/trees/algoexpert/MaxPathSumInBinaryTree$BinaryTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/trees/algoexpert/MaxPathSumInBinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/trees/algoexpert/MaxPathSumInBinaryTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/trees/algoexpert/NodeDepth$BinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/trees/algoexpert/NodeDepth$BinaryTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/trees/algoexpert/NodeDepth.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/trees/algoexpert/NodeDepth.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/trees/algoexpert/PreconstructBST$BST.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/trees/algoexpert/PreconstructBST$BST.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/trees/algoexpert/PreconstructBST.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/trees/algoexpert/PreconstructBST.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/trees/leetcode/MaximumDifferenceBetNodeAndAncestor$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/trees/leetcode/MaximumDifferenceBetNodeAndAncestor$TreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/trees/leetcode/MaximumDifferenceBetNodeAndAncestor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/trees/leetcode/MaximumDifferenceBetNodeAndAncestor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/trees/narasimha_karumanchi_book/BinaryTreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/trees/narasimha_karumanchi_book/BinaryTreeNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/trees/narasimha_karumanchi_book/InOrderNonRecursiveTraversal.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/trees/narasimha_karumanchi_book/InOrderNonRecursiveTraversal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/trees/narasimha_karumanchi_book/InOrderRecursiveTraversal.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/trees/narasimha_karumanchi_book/InOrderRecursiveTraversal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/trees/narasimha_karumanchi_book/InsertElemInBinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/trees/narasimha_karumanchi_book/InsertElemInBinaryTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/trees/narasimha_karumanchi_book/LevelOrderTraversal.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/trees/narasimha_karumanchi_book/LevelOrderTraversal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/trees/narasimha_karumanchi_book/MaximumElementInBinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/trees/narasimha_karumanchi_book/MaximumElementInBinaryTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/trees/narasimha_karumanchi_book/PostOrderNonRecursiveTraversal.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/trees/narasimha_karumanchi_book/PostOrderNonRecursiveTraversal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/trees/narasimha_karumanchi_book/PostOrderTraversal.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/trees/narasimha_karumanchi_book/PostOrderTraversal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/trees/narasimha_karumanchi_book/PreOrderNonRecursiveTraversal.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/trees/narasimha_karumanchi_book/PreOrderNonRecursiveTraversal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/trees/narasimha_karumanchi_book/PreOrderRecursiveTraversal.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/trees/narasimha_karumanchi_book/PreOrderRecursiveTraversal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/trees/narasimha_karumanchi_book/SearchElemInBinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/trees/narasimha_karumanchi_book/SearchElemInBinaryTree.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -228,18 +38,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-  </component>
-  <component name="RunManager" selected="Application.KnapsackProblem">
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/roshnibatra/vinit/interviewPrep"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.ThreeSumClosest">
     <configuration name="GroupAnagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.strings.algoexpert.GroupAnagram" />
       <module name="interviewPrep" />
@@ -279,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseWordsInString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.strings.algoexpert.ReverseWordsInString" />
+    <configuration name="ThreeSumClosest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.arrays.leetcode.ThreeSumClosest" />
       <module name="interviewPrep" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.vinit.dsalgo.strings.algoexpert.*" />
+          <option name="PATTERN" value="com.vinit.dsalgo.arrays.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -307,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ThreeSumClosest" />
         <item itemvalue="Application.KnapsackProblem" />
         <item itemvalue="Application.KadanesAlgorithm" />
         <item itemvalue="Application.GroupAnagram" />
         <item itemvalue="Application.ValidIpAddress" />
-        <item itemvalue="Application.ReverseWordsInString" />
       </list>
     </recent_temporary>
   </component>
@@ -339,7 +145,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
