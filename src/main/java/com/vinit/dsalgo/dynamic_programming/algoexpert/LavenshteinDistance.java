@@ -1,5 +1,7 @@
 package com.vinit.dsalgo.dynamic_programming.algoexpert;
 
+import java.util.Arrays;
+
 public class LavenshteinDistance {
 
     public static int levenshteinDistance(String str1, String str2) {
@@ -20,15 +22,7 @@ public class LavenshteinDistance {
                     matrix[i][j] = 1 + Math.min(matrix[i][j - 1], Math.min(matrix[i - 1][j - 1], matrix[i - 1][j]));
             }
         }
-        for (int i = 0; i < str2.length() + 1; i++) {
-            for (int j = 0; j < str1.length() + 1; j++) {
-                System.out.print(matrix[i][j] + " - ");
-            }
-            System.out.println("");
-        }
-        int relplaceCount = matrix[str2.length()][str1.length()];
-        System.out.println("relplaceCount: " + relplaceCount);
-        return relplaceCount;
+        return matrix[str2.length()][str1.length()];
     }
 
     public static void main(String args[]) {

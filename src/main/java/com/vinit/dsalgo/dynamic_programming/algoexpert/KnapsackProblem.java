@@ -14,23 +14,29 @@ public class KnapsackProblem {
                 knapsack[i][j] = 0;
             }
         }
-        for (int i = 0; i < items.length + 1; i++) {
-            for (int j = 0; j < capacity + 1; j++) {
-                System.out.print(knapsack[i][j] + " ");
-            }
-            System.out.println("");
-        }
+//        for (int i = 0; i < items.length + 1; i++) {
+//            for (int j = 0; j < capacity + 1; j++) {
+//                System.out.print(knapsack[i][j] + " ");
+//            }
+//            System.out.println("");
+//        }
+        List<List<Integer>> res = new ArrayList<>();
         for (int i = 1; i < items.length + 1; i++) {
+            List<List<Integer>> tempRes = new ArrayList<>();
             int currentValue = items[i - 1][0];
             int currentWeight = items[i - 1][1];
+            tempRes.add(new ArrayList<>());
             for (int c = 0; c < capacity + 1; c++) {
-                if (currentWeight > c) knapsack[i][c] = knapsack[i - 1][c];
+                if (currentWeight > c) {
+                    knapsack[i][c] = knapsack[i - 1][c];
+                }
                 else {
                     knapsack[i][c] = Math.max(
                             knapsack[i - 1][c],
                             knapsack[i - 1][c - currentWeight] + currentValue
                     );
                 }
+                System.out.println(i + " - " + tempRes.get(0));
             }
         }
         for (int i = 0; i < items.length + 1; i++) {
@@ -39,7 +45,9 @@ public class KnapsackProblem {
             }
             System.out.println("");
         }
-        return getKnapsack(items, knapsack, capacity, knapsack[items.length + 1][items[0].length + 1]);
+        res.add(0, new ArrayList<>(Arrays.asList(knapsack[items.length - 1][capacity])));
+        return getKnapsack(items, knapsack, capacity, 10);
+//        return knapsack[items.length - 1][capacity];
     }
 
     public static List<List<Integer>> getKnapsack(int[][] items, int[][] knapsack, int capacity, int weight) {

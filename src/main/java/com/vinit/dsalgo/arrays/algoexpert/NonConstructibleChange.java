@@ -8,12 +8,9 @@ public class NonConstructibleChange {
         Arrays.sort(coins);
         int constructibleCoins = 0;
         for (int coin : coins) {
-            System.out.println("coin: " + coin);
             if (coin > constructibleCoins + 1) return constructibleCoins + 1;
             constructibleCoins += coin;
-            System.out.println("constructibleCoins: " + constructibleCoins);
         }
-        System.out.println("final constructibleCoins: " + constructibleCoins + 1);
         return constructibleCoins + 1;
     }
 

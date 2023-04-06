@@ -13,12 +13,10 @@ public class ValidateSubSequence {
         int i = 0;
         int j = 0;
         while (i < array.size() && j < sequence.size()) {
-            System.out.println("i: " + i + ", j: " + j);
             if (array.get(i) == sequence.get(j)) {
                 j++;
             }
             i++;
-            System.out.println("i: " + i + ", j: " + j + "\n");
         }
         if (j == sequence.size()) return true;
         return false;

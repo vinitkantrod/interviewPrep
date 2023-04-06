@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 
-public class TournamentWinner {
+public class  TournamentWinner {
 
     public static String tournamentWinner(
             ArrayList<ArrayList<String>> competitions, ArrayList<Integer> results) {
