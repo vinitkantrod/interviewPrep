@@ -5,18 +5,38 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7f3e18b9-d64e-45b5-bd3c-1910ff52c002" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/arrays/leetcode/ExcelSheetColumnNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/arrays/leetcode/ExcelSheetColumnTitle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/arrays/leetcode/TwoSumLessThanK1099.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/arrays/leetcode/TwoSumSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/leetcode75/level1/linked_list/MergeTwoSortedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/leetcode75/level1/linked_list/ReverseLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/linkedlist/algoexpert/LinkedListConstruction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/linkedlist/leetcode/SortList148.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/arrays/leetcode/CellInRange2194.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/arrays/leetcode/FizzBuzz412.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/arrays/leetcode/IntegerToRoman12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/arrays/leetcode/KWeakestRowInMatrix1337.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/arrays/leetcode/MergeSortedArray88.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/arrays/leetcode/NumberOfStepsToReduceToZero1342.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/arrays/leetcode/PalindromeNumber9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/arrays/leetcode/RichesTCustomerWealth1672.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/arrays/leetcode/RomanToInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/leetcode75/level1/binary_search/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/leetcode75/level1/binary_search/FirstBadVersion278.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/leetcode75/level1/binary_search_tree/ValidateBST98.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/leetcode75/level1/binary_tree/LevelOrderTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/leetcode75/level1/binary_tree/NAryTreePreOrderTraversal589.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/leetcode75/level1/dp/MaxProfitOnStock121.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/leetcode75/level1/greedy/LongestPalindrome409.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/leetcode75/level1/greedy/RansomNote383.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/linkedlist/algoexpert/MiddleNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/linkedlist/leetcode/AddTwoNumbers2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/linkedlist/leetcode/LinkedListCycle141.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/linkedlist/leetcode/LinkedListCycleTwo142.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/linkedlist/leetcode/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/linkedlist/leetcode/MiddleList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/linkedlist/leetcode/PalindromeLinkedList234.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/linkedlist/leetcode/RemoveDuplicateFromSortedList83.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/linkedlist/leetcode/RemoveDuplicateFromSortedListTwo82.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/linkedlist/practice/BasicLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/mathematics/leetcode/AddDigits258.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/mathematics/leetcode/HappyNumber202.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/strings/leetcode/ValidPalindrome125.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/arrays/leetcode/ArithematicTriplets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/arrays/leetcode/ArithematicTriplets.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/arrays/leetcode/ArithematicTriplets.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/arrays/leetcode/ArithematicTriplets.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/strings/leetcode/ReverseWordsInAString557.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/strings/leetcode/ReverseWordsInAString557.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/arrays/leetcode/ExcelSheetColumnNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/arrays/leetcode/ExcelSheetColumnNumber.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,13 +85,13 @@
       <recent name="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/arrays/leetcode" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ExcelSheetColumnNumber">
-    <configuration name="ArithematicTriplets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.arrays.leetcode.ArithematicTriplets" />
+  <component name="RunManager" selected="Application.BinarySearch">
+    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.leetcode75.level1.binary_search.BinarySearch" />
       <module name="interviewPrep" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.vinit.dsalgo.arrays.leetcode.*" />
+          <option name="PATTERN" value="com.vinit.dsalgo.leetcode75.level1.binary_search.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExcelSheetColumnNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.arrays.leetcode.ExcelSheetColumnNumber" />
+    <configuration name="LongestPalindrome409" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.leetcode75.level1.greedy.LongestPalindrome409" />
       <module name="interviewPrep" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.vinit.dsalgo.arrays.leetcode.*" />
+          <option name="PATTERN" value="com.vinit.dsalgo.leetcode75.level1.greedy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeTwoSortedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.leetcode75.level1.linked_list.MergeTwoSortedList" />
+    <configuration name="MaxProfitOnStock121" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.leetcode75.level1.dp.MaxProfitOnStock121" />
       <module name="interviewPrep" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.vinit.dsalgo.leetcode75.level1.linked_list.*" />
+          <option name="PATTERN" value="com.vinit.dsalgo.leetcode75.level1.dp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveDuplicatesFromLL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.linkedlist.algoexpert.RemoveDuplicatesFromLL" />
+    <configuration name="NAryTreePreOrderTraversal589" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.leetcode75.level1.binary_tree.NAryTreePreOrderTraversal589" />
       <module name="interviewPrep" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.vinit.dsalgo.linkedlist.algoexpert.*" />
+          <option name="PATTERN" value="com.vinit.dsalgo.leetcode75.level1.binary_tree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +138,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoSumSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.arrays.leetcode.TwoSumSortedArray" />
+    <configuration name="RansomNote383" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.leetcode75.level1.greedy.RansomNote383" />
       <module name="interviewPrep" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.vinit.dsalgo.arrays.leetcode.*" />
+          <option name="PATTERN" value="com.vinit.dsalgo.leetcode75.level1.greedy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ExcelSheetColumnNumber" />
-        <item itemvalue="Application.TwoSumSortedArray" />
-        <item itemvalue="Application.ArithematicTriplets" />
-        <item itemvalue="Application.RemoveDuplicatesFromLL" />
-        <item itemvalue="Application.MergeTwoSortedList" />
+        <item itemvalue="Application.BinarySearch" />
+        <item itemvalue="Application.NAryTreePreOrderTraversal589" />
+        <item itemvalue="Application.RansomNote383" />
+        <item itemvalue="Application.MaxProfitOnStock121" />
+        <item itemvalue="Application.LongestPalindrome409" />
       </list>
     </recent_temporary>
   </component>
