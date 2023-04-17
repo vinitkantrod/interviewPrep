@@ -39,10 +39,33 @@ public class LinkedListConstruction {
 
         public void insertAfter(Node node, Node nodeToInsert) {
             // Write your code here.
+            Node currentNode = head;
+            while (currentNode.value != node.value) {
+                currentNode = currentNode.next;
+            }
+            currentNode.next.prev = node;
+            node.next = currentNode.next;
+            node.prev = currentNode;
+            currentNode.next = node;
         }
 
         public void insertAtPosition(int position, Node nodeToInsert) {
             // Write your code here.
+            if (position == 1) {
+                head.prev = nodeToInsert;
+                nodeToInsert.next = head;
+                head = nodeToInsert;
+            }
+            int i = 1;
+            Node currentNode = head;
+            while (i < position - 1) {
+                currentNode = currentNode.next;
+                i++;
+            }
+            currentNode.next.prev = nodeToInsert;
+            nodeToInsert.next = currentNode.next;
+            nodeToInsert.prev = currentNode;
+            currentNode.next = nodeToInsert;
         }
 
         public void removeNodesWithValue(int value) {

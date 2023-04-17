@@ -32,8 +32,6 @@ public class ClassPhotos {
 
     public static boolean checkHeight(ArrayList<Integer> redShirtHeights,
                                       ArrayList<Integer> blueShirtHeights, int a, int b) {
-//        System.out.println("a: " + a + ", b: " + b);
-//        System.out.println(redShirtHeights.get(a) + " _ " + blueShirtHeights.get(b));
         return (redShirtHeights.get(a) > blueShirtHeights.get(b)) ? true : false;
     }
 

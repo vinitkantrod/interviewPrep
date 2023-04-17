@@ -34,6 +34,6 @@ public class ReverseWordsInString {
     }
 
     public static void main(String args[]) {
-        reverseWordsInString("AlgoExpert is the best!");
+        reverseWordsInString("AlgoExpert is the   best!");
     }
 }

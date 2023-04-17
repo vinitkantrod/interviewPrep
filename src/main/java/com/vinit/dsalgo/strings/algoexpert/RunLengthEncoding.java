@@ -32,6 +32,6 @@ public class RunLengthEncoding {
     }
     public static void main(String args[]) {
         System.out.println(runLengthEncoding(" "));
-//        System.out.println(runLengthEncoding("AAAAAAAAAAAAABBCCCCDD"));
+        System.out.println(runLengthEncoding("AAAAAAAAAAAAABBCCCCDD"));
     }
 }
