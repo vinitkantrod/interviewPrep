@@ -8,7 +8,9 @@ public class BubbleSort {
        for (int pass = array.length; pass > 0; pass--) {
            for (int i = 0; i < pass - 1; i++) {
                if (array[i] > array[i+1]) {
-                   swap(array, i, i + 1);
+                   int temp = array[i];
+                   array[i] = array[i + 1];
+                   array[i + 1] = temp;
                }
            }
        }

@@ -9,7 +9,10 @@ public class SelectionSort {
         while (index < array.length) {
             for (int i = index + 1; i < array.length; i++) {
                 if (array[i] < array[index]) {
-                    swap(array, i, index);
+//                    swap(array, i, index);
+                    int temp = array[i];
+                    array[i] = array[index];
+                    array[index] = temp;
                 }
             }
             index++;

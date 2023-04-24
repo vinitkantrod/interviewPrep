@@ -5,39 +5,43 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7f3e18b9-d64e-45b5-bd3c-1910ff52c002" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/arrays/leetcode/ContainsDuplicate217.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/arrays/leetcode/ContainsDuplicateTwo219.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/arrays/leetcode/MakeArrayZero2357.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/greedy/algoexpert/TandemBicycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/leetcode75/level1/binary_search_tree/LowestCommonAncestor235.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/linkedlist/algoexpert/FindIntersection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/recursion/algoexpert/Fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/strings/algoexpert/CeaserCipherEncryptor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/strings/algoexpert/CommonCharacters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/strings/algoexpert/FirstNonRepeatingCharacters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/strings/algoexpert/MinimumCharactersForWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/strings/algoexpert/PalindromeString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/strings/algoexpert/Semordnilap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/trees/algoexpert/ClosestNodeinBST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/trees/algoexpert/DFS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/trees/leetcode/LonelyNodes1469.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/trees/leetcode/MergeBinaryTree617.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/trees/leetcode/RangeSumBST938.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/trees/leetcode/RootEqualsSumOfChildren2236.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/trees/leetcode/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/arrays/leetcode/MinimumNumOfSeatsForStudents2037.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/dynamic_programming/leetcode/MinimumPathSum64.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/dynamic_programming/leetcode/PathInMatrixWhoseSumIsDivisbleByK2435.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/dynamic_programming/leetcode/Triangle120.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/dynamic_programming/leetcode/UniquePath62.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/dynamic_programming/leetcode/UniquePathThree980.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/dynamic_programming/leetcode/UniquePathTwo63.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/graphs/leetcode/IslandPerimeter463.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/leetcode75/level1/dp/ClimbingStairs70.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/leetcode75/level1/dp/MinCostClimbingStairs746.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/leetcode75/level1/graph/FloodFill733.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/leetcode75/level1/hash_map/BullsAndCows299.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/leetcode75/level1/simulation/SpiralMatrix54.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/leetcode75/level1/simulation/WhereWillTheBallFall1706.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/leetcode75/level1/string/LongestCommonPrefix14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/leetcode75/level1/string/MultiplyString43.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/searching/algoexpert/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/sorting/leetcode/ThreeSum15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/stack/leetcode/BackspaceStringCompare844.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/stack/leetcode/BaseballGames682.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/stack/leetcode/CrawlerLogFolder1598.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/stack/leetcode/DecodeString394.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/stack/leetcode/RemoveAllDuplicateAdjacentStrings1047.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/stack/leetcode/RemoveStarFromString2390.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/trees/leetcode/LCSOfBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/trees/leetcode/LCSOfBinaryTreeTwo1644.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/greedy/algoexpert/ClassPhotos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/greedy/algoexpert/ClassPhotos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/greedy/algoexpert/ValidateStartingCity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/greedy/algoexpert/ValidateStartingCity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/linkedlist/algoexpert/LinkedListConstruction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/linkedlist/algoexpert/LinkedListConstruction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/strings/algoexpert/ReverseWordsInString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/strings/algoexpert/ReverseWordsInString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/strings/algoexpert/RunLengthEncoding.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/strings/algoexpert/RunLengthEncoding.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/greedy/algoexpert/ClassPhotos.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/greedy/algoexpert/ClassPhotos.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/greedy/algoexpert/ValidateStartingCity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/greedy/algoexpert/ValidateStartingCity.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/leetcode75/level1/binary_search/BinarySearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/leetcode75/level1/binary_search/BinarySearch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/linkedlist/algoexpert/LinkedListConstruction$DoublyLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/linkedlist/algoexpert/LinkedListConstruction$DoublyLinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/linkedlist/algoexpert/LinkedListConstruction$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/linkedlist/algoexpert/LinkedListConstruction$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/strings/algoexpert/ReverseWordsInString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/strings/algoexpert/ReverseWordsInString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/strings/algoexpert/RunLengthEncoding.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/strings/algoexpert/RunLengthEncoding.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/arrays/algoexpert/ThreeNumberSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/arrays/algoexpert/ThreeNumberSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/leetcode75/level1/binary_search_tree/LowestCommonAncestor235.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/leetcode75/level1/binary_search_tree/LowestCommonAncestor235.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/sorting/algoexpert/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/sorting/algoexpert/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/sorting/algoexpert/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/sorting/algoexpert/InsertionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/sorting/algoexpert/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/sorting/algoexpert/SelectionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/leetcode75/level1/binary_search_tree/LowestCommonAncestor235.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/leetcode75/level1/binary_search_tree/LowestCommonAncestor235.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/sorting/algoexpert/BubbleSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/sorting/algoexpert/BubbleSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/sorting/algoexpert/InsertionSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/sorting/algoexpert/InsertionSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/sorting/algoexpert/SelectionSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/sorting/algoexpert/SelectionSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/strings/algoexpert/MinimumCharactersForWords.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/strings/algoexpert/MinimumCharactersForWords.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,13 +90,13 @@
       <recent name="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/arrays/leetcode" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MinimumCharactersForWords">
-    <configuration name="CeaserCipherEncryptor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.strings.algoexpert.CeaserCipherEncryptor" />
+  <component name="RunManager" selected="Application.MinimumNumOfSeatsForStudents2037">
+    <configuration name="LongestCommonPrefix14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.leetcode75.level1.string.LongestCommonPrefix14" />
       <module name="interviewPrep" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.vinit.dsalgo.strings.algoexpert.*" />
+          <option name="PATTERN" value="com.vinit.dsalgo.leetcode75.level1.string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FirstNonRepeatingCharacters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.strings.algoexpert.FirstNonRepeatingCharacters" />
+    <configuration name="MinimumNumOfSeatsForStudents2037" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.arrays.leetcode.MinimumNumOfSeatsForStudents2037" />
       <module name="interviewPrep" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.vinit.dsalgo.strings.algoexpert.*" />
+          <option name="PATTERN" value="com.vinit.dsalgo.arrays.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinimumCharactersForWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.strings.algoexpert.MinimumCharactersForWords" />
+    <configuration name="SpiralMatrix54" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.leetcode75.level1.simulation.SpiralMatrix54" />
       <module name="interviewPrep" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.vinit.dsalgo.strings.algoexpert.*" />
+          <option name="PATTERN" value="com.vinit.dsalgo.leetcode75.level1.simulation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,12 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseWordsInString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.strings.algoexpert.ReverseWordsInString" />
+    <configuration name="ThreeSum15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.sorting.leetcode.ThreeSum15" />
       <module name="interviewPrep" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.vinit.dsalgo.strings.algoexpert.*" />
+          <option name="PATTERN" value="com.vinit.dsalgo.sorting.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,12 +143,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Semordnilap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.strings.algoexpert.Semordnilap" />
+    <configuration name="WhereWillTheBallFall1706" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.leetcode75.level1.simulation.WhereWillTheBallFall1706" />
       <module name="interviewPrep" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.vinit.dsalgo.strings.algoexpert.*" />
+          <option name="PATTERN" value="com.vinit.dsalgo.leetcode75.level1.simulation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MinimumCharactersForWords" />
-        <item itemvalue="Application.ReverseWordsInString" />
-        <item itemvalue="Application.Semordnilap" />
-        <item itemvalue="Application.CeaserCipherEncryptor" />
-        <item itemvalue="Application.FirstNonRepeatingCharacters" />
+        <item itemvalue="Application.MinimumNumOfSeatsForStudents2037" />
+        <item itemvalue="Application.LongestCommonPrefix14" />
+        <item itemvalue="Application.ThreeSum15" />
+        <item itemvalue="Application.WhereWillTheBallFall1706" />
+        <item itemvalue="Application.SpiralMatrix54" />
       </list>
     </recent_temporary>
   </component>

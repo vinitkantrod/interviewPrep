@@ -3,7 +3,7 @@ package com.vinit.dsalgo.arrays.algoexpert;
 import java.util.*;
 
 public class ThreeNumberSum {
-
+ // new ArrayList<>(Arrays.asList(1, 2, 3, 4, 5
     public static List<Integer[]> threeNumberSum(int[] array, int targetSum) {
         // Write your code here.
         // O(n^3)
