@@ -6,11 +6,12 @@ public class VerifyPreOrderSequence255 {
         int n = preorder.length;
         for (int i = 0; i < preorder.length; i++) {
             System.out.println(i);
-            int leftChildIdx = 2 * i + 1;
-            int rightChildIdx = 2 * i;
+            int leftChildIdx = (2 * i) + 1;
+            int rightChildIdx = (2 * i) + 2;
+            System.out.println("l: " + leftChildIdx + ", r: " + rightChildIdx);
             if ((leftChildIdx < n &&
-                    !(preorder[i] > preorder[leftChildIdx]) ) ||
-                    ( rightChildIdx < n && !(preorder[i] < preorder[rightChildIdx])) ) {
+                    (preorder[i] < preorder[leftChildIdx]) ) ||
+                    ( rightChildIdx < n && (preorder[i] > preorder[rightChildIdx])) ) {
                 return false;
             }
         }

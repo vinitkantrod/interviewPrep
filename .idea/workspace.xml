@@ -5,18 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7f3e18b9-d64e-45b5-bd3c-1910ff52c002" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/arrays/leetcode/FlippingAnImage832.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/arrays/leetcode/MatrixDiagonalSum1572.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/arrays/leetcode/MinimumTimeVisitingAllPoints1266.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/arrays/leetcode/SeperateTheDigitsInArray2553.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/arrays/leetcode/SortThePeople2418.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/arrays/leetcode/SudokuMatrix2133.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/trees/leetcode/InorderTraversal94.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/trees/leetcode/NAryTreePostOrderTraversal590.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/trees/leetcode/PostOrderTraversal145.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/trees/leetcode/PreOrderTraversal144.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/trees/leetcode/VerifyPreOrderSequence255.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/leetcode75/level1/linked_list/MaximumTwinSum2130.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/leetcode75/level1/linked_list/PalindromeLinkedList234.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/leetcode75/level1/linked_list/RemoveNthNodeFromLL19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/trees/leetcode/FlattenBinaryTreeToLinkedList114.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/trees/leetcode/LevelOrderTraversalTwo107.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/trees/leetcode/MaximumDepthOfBT104.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/trees/leetcode/MinimumDepthofBT111.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/trees/leetcode/NArrayLevelOrderTraversal429.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/trees/leetcode/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/trees/leetcode/PathSum112.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/trees/leetcode/PathSumTwo113.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/trees/leetcode/SameTree100.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/trees/leetcode/SymmetricTree101.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/trees/leetcode/ZigzagLevelOrderTraversal103.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/trees/leetcode/VerifyPreOrderSequence255.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/trees/leetcode/VerifyPreOrderSequence255.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/trees/leetcode/VerifyPreOrderSequence255.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/trees/leetcode/VerifyPreOrderSequence255.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,9 +70,9 @@
       <recent name="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/arrays/leetcode" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.VerifyPreOrderSequence255">
-    <configuration name="InorderTraversal94" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.trees.leetcode.InorderTraversal94" />
+  <component name="RunManager" selected="Application.MaximumTwinSum2130">
+    <configuration name="MaximumDepthOfBT104" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.trees.leetcode.MaximumDepthOfBT104" />
       <module name="interviewPrep" />
       <extension name="coverage">
         <pattern>
@@ -79,8 +84,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PostOrderTraversal145" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.trees.leetcode.PostOrderTraversal145" />
+    <configuration name="MaximumTwinSum2130" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.leetcode75.level1.linked_list.MaximumTwinSum2130" />
+      <module name="interviewPrep" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.vinit.dsalgo.leetcode75.level1.linked_list.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MinimumDepthofBT111" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.trees.leetcode.MinimumDepthofBT111" />
       <module name="interviewPrep" />
       <extension name="coverage">
         <pattern>
@@ -92,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PreOrderTraversal144" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.trees.leetcode.PreOrderTraversal144" />
+    <configuration name="RemoveNthNodeFromLL19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.leetcode75.level1.linked_list.RemoveNthNodeFromLL19" />
       <module name="interviewPrep" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.vinit.dsalgo.trees.leetcode.*" />
+          <option name="PATTERN" value="com.vinit.dsalgo.leetcode75.level1.linked_list.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,21 +123,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SudokuMatrix2133" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.arrays.leetcode.SudokuMatrix2133" />
-      <module name="interviewPrep" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.vinit.dsalgo.arrays.leetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="VerifyPreOrderSequence255" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.trees.leetcode.VerifyPreOrderSequence255" />
+    <configuration name="SymmetricTree101" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.trees.leetcode.SymmetricTree101" />
       <module name="interviewPrep" />
       <extension name="coverage">
         <pattern>
@@ -133,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.VerifyPreOrderSequence255" />
-        <item itemvalue="Application.PostOrderTraversal145" />
-        <item itemvalue="Application.PreOrderTraversal144" />
-        <item itemvalue="Application.InorderTraversal94" />
-        <item itemvalue="Application.SudokuMatrix2133" />
+        <item itemvalue="Application.MaximumTwinSum2130" />
+        <item itemvalue="Application.RemoveNthNodeFromLL19" />
+        <item itemvalue="Application.MinimumDepthofBT111" />
+        <item itemvalue="Application.MaximumDepthOfBT104" />
+        <item itemvalue="Application.SymmetricTree101" />
       </list>
     </recent_temporary>
   </component>
