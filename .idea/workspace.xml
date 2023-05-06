@@ -5,24 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7f3e18b9-d64e-45b5-bd3c-1910ff52c002" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/hashtable/leetcode/CheckIfAllCharHaveEqualNumberOfOccurance1941.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/hashtable/leetcode/DestinationCity1436.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/hashtable/leetcode/DivideArrIntoEqualPairs2206.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/hashtable/leetcode/FirstLetterToAppearTwice2351.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/hashtable/leetcode/IncreasingDecreasingString1370.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/hashtable/leetcode/IntersectionOfThreeSortedArray1213.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/hashtable/leetcode/KthDistinctStringInArray2053.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/hashtable/leetcode/LoggerRateLimiter359.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/hashtable/leetcode/MaxNumberOfPairs2341.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/hashtable/leetcode/MaximumNumberOfBalls1742.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/hashtable/leetcode/MaximumNumberOfWordsYouCanType1935.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/hashtable/leetcode/MergeTwo2DArray2570.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/hashtable/leetcode/NRepeatedElement961.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/hashtable/leetcode/SumOfUniqueElement1748.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/hashtable/leetcode/TwoOutOfThree2032.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/hashtable/leetcode/UnoqueNumberOfOccurance1207.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/hashtable/leetcode/CheckIfNumberHasEqualDigitCount2283.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/hashtable/leetcode/ConvertAnArrayInto2DArray2610.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/hashtable/leetcode/HighFive1086.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/hashtable/leetcode/KeepMultiplyingFoundValuesByTwo2154.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/hashtable/leetcode/LetterCombinationOfPhoneNumber17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/hashtable/leetcode/LongestSubStringWithoutRepeatingChar3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/hashtable/leetcode/MakeTwoArrayEqualByReversing1460.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/hashtable/leetcode/MergeSimiliarItems2363.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/hashtable/leetcode/NextGreaterElement496.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/hashtable/leetcode/NextGreaterElementTwo503.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/hashtable/leetcode/RemoveLetterToEqualiseFreq2423.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/hashtable/leetcode/SubStringOfSizeThreeWithDistinctChar1876.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/hashtable/leetcode/ValidSudoku36.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/hashtable/leetcode/t" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/hashtable/leetcode/OrderedStream.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/hashtable/leetcode/OrderedStream.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/hashtable/leetcode/MergeTwo2DArray2570.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/hashtable/leetcode/MergeTwo2DArray2570.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/hashtable/leetcode/MergeTwo2DArray2570.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/hashtable/leetcode/MergeTwo2DArray2570.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,9 +70,9 @@
       <recent name="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/arrays/leetcode" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MaximumNumberOfWordsYouCanType1935">
-    <configuration name="DesignAOrderedStream1656" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.hashtable.leetcode.DesignAOrderedStream1656" />
+  <component name="RunManager" selected="Application.ConvertAnArrayInto2DArray2610">
+    <configuration name="ConvertAnArrayInto2DArray2610" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.hashtable.leetcode.ConvertAnArrayInto2DArray2610" />
       <module name="interviewPrep" />
       <extension name="coverage">
         <pattern>
@@ -85,8 +84,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IncreasingDecreasingString1370" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.hashtable.leetcode.IncreasingDecreasingString1370" />
+    <configuration name="HighFive1086" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.hashtable.leetcode.HighFive1086" />
       <module name="interviewPrep" />
       <extension name="coverage">
         <pattern>
@@ -98,8 +97,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KthDistinctStringInArray2053" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.hashtable.leetcode.KthDistinctStringInArray2053" />
+    <configuration name="LongestSubStringWithoutRepeatingChar3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.hashtable.leetcode.LongestSubStringWithoutRepeatingChar3" />
       <module name="interviewPrep" />
       <extension name="coverage">
         <pattern>
@@ -111,8 +110,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoggerRateLimiter359" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.hashtable.leetcode.LoggerRateLimiter359" />
+    <configuration name="MergeTwo2DArray2570" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.hashtable.leetcode.MergeTwo2DArray2570" />
       <module name="interviewPrep" />
       <extension name="coverage">
         <pattern>
@@ -124,8 +123,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaximumNumberOfWordsYouCanType1935" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.hashtable.leetcode.MaximumNumberOfWordsYouCanType1935" />
+    <configuration name="RemoveLetterToEqualiseFreq2423" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.hashtable.leetcode.RemoveLetterToEqualiseFreq2423" />
       <module name="interviewPrep" />
       <extension name="coverage">
         <pattern>
@@ -139,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MaximumNumberOfWordsYouCanType1935" />
-        <item itemvalue="Application.KthDistinctStringInArray2053" />
-        <item itemvalue="Application.IncreasingDecreasingString1370" />
-        <item itemvalue="Application.LoggerRateLimiter359" />
-        <item itemvalue="Application.DesignAOrderedStream1656" />
+        <item itemvalue="Application.ConvertAnArrayInto2DArray2610" />
+        <item itemvalue="Application.LongestSubStringWithoutRepeatingChar3" />
+        <item itemvalue="Application.RemoveLetterToEqualiseFreq2423" />
+        <item itemvalue="Application.HighFive1086" />
+        <item itemvalue="Application.MergeTwo2DArray2570" />
       </list>
     </recent_temporary>
   </component>
