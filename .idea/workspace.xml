@@ -5,23 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7f3e18b9-d64e-45b5-bd3c-1910ff52c002" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/hashtable/leetcode/CheckIfNumberHasEqualDigitCount2283.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/hashtable/leetcode/ConvertAnArrayInto2DArray2610.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/hashtable/leetcode/HighFive1086.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/hashtable/leetcode/KeepMultiplyingFoundValuesByTwo2154.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/hashtable/leetcode/LetterCombinationOfPhoneNumber17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/hashtable/leetcode/LongestSubStringWithoutRepeatingChar3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/hashtable/leetcode/MakeTwoArrayEqualByReversing1460.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/hashtable/leetcode/MergeSimiliarItems2363.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/hashtable/leetcode/NextGreaterElement496.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/hashtable/leetcode/NextGreaterElementTwo503.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/hashtable/leetcode/RemoveLetterToEqualiseFreq2423.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/hashtable/leetcode/SubStringOfSizeThreeWithDistinctChar1876.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/hashtable/leetcode/ValidSudoku36.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/hashtable/leetcode/t" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/arrays/leetcode/FindFirstAndLastPositionOfTargetArray34.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/arrays/leetcode/MoveZeros283.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/arrays/leetcode/RemoveDuplicateFromSortedArray26.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/arrays/leetcode/RemoveElement27.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/arrays/leetcode/SquareOfSortedArray977.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/leetcode150MostAsked/array/MergeSortedArray88.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/hashtable/leetcode/MergeTwo2DArray2570.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/hashtable/leetcode/MergeTwo2DArray2570.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/hashtable/leetcode/MergeTwo2DArray2570.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/hashtable/leetcode/MergeTwo2DArray2570.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/hashtable/leetcode/ConvertAnArrayInto2DArray2610.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/hashtable/leetcode/ConvertAnArrayInto2DArray2610.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +61,7 @@
       <recent name="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/arrays/leetcode" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ConvertAnArrayInto2DArray2610">
+  <component name="RunManager" selected="Application.MoveZeros283">
     <configuration name="ConvertAnArrayInto2DArray2610" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.hashtable.leetcode.ConvertAnArrayInto2DArray2610" />
       <module name="interviewPrep" />
@@ -84,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HighFive1086" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.hashtable.leetcode.HighFive1086" />
+    <configuration name="MoveZeros283" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.arrays.leetcode.MoveZeros283" />
       <module name="interviewPrep" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.vinit.dsalgo.hashtable.leetcode.*" />
+          <option name="PATTERN" value="com.vinit.dsalgo.arrays.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LongestSubStringWithoutRepeatingChar3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.hashtable.leetcode.LongestSubStringWithoutRepeatingChar3" />
+    <configuration name="RemoveDuplicateFromSortedArray26" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.arrays.leetcode.RemoveDuplicateFromSortedArray26" />
       <module name="interviewPrep" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.vinit.dsalgo.hashtable.leetcode.*" />
+          <option name="PATTERN" value="com.vinit.dsalgo.arrays.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeTwo2DArray2570" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.hashtable.leetcode.MergeTwo2DArray2570" />
+    <configuration name="RemoveElement27" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.arrays.leetcode.RemoveElement27" />
       <module name="interviewPrep" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.vinit.dsalgo.hashtable.leetcode.*" />
+          <option name="PATTERN" value="com.vinit.dsalgo.arrays.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveLetterToEqualiseFreq2423" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.hashtable.leetcode.RemoveLetterToEqualiseFreq2423" />
+    <configuration name="SquareOfSortedArray977" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.arrays.leetcode.SquareOfSortedArray977" />
       <module name="interviewPrep" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.vinit.dsalgo.hashtable.leetcode.*" />
+          <option name="PATTERN" value="com.vinit.dsalgo.arrays.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MoveZeros283" />
+        <item itemvalue="Application.RemoveDuplicateFromSortedArray26" />
+        <item itemvalue="Application.RemoveElement27" />
+        <item itemvalue="Application.SquareOfSortedArray977" />
         <item itemvalue="Application.ConvertAnArrayInto2DArray2610" />
-        <item itemvalue="Application.LongestSubStringWithoutRepeatingChar3" />
-        <item itemvalue="Application.RemoveLetterToEqualiseFreq2423" />
-        <item itemvalue="Application.HighFive1086" />
-        <item itemvalue="Application.MergeTwo2DArray2570" />
       </list>
     </recent_temporary>
   </component>
