@@ -5,33 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7f3e18b9-d64e-45b5-bd3c-1910ff52c002" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/arrays/leetcode/CheckIfMatrixIsXMatrix2319.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/arrays/leetcode/LongerContinousSegmentOfOnesAndZero1869.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/arrays/leetcode/MajorityElement169.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/arrays/leetcode/MaxConsecutiveOnes485.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/arrays/leetcode/MaxConsecutivesOnesTwo487.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/leetcode150MostAsked/array/BestTimeToBuyAndSellStock121.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/leetcode150MostAsked/array/BuyAndSellStockTwo122.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/leetcode150MostAsked/array/Candy135.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/leetcode150MostAsked/array/FindTheIndexOfFirstOccuranceOfString28.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/leetcode150MostAsked/array/GasStation134.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/leetcode150MostAsked/array/HIndex274.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/leetcode150MostAsked/array/InsertDeleteGetRandomInOrderOfOne380.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/leetcode150MostAsked/array/JumpGame55.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/leetcode150MostAsked/array/JumpGameTwo45.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/leetcode150MostAsked/array/LengthOfLastWord58.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/leetcode150MostAsked/array/LongestCommonPrefix14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/leetcode150MostAsked/array/MajorityElement169.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/leetcode150MostAsked/array/NumberOfSegmentsInString434.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/leetcode150MostAsked/array/ProductOfArrayExceptSelf238.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/leetcode150MostAsked/array/RemoveDuplicateFromSortedArrayTwo80.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/leetcode150MostAsked/array/RemoveDuplicatesLetters316.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/leetcode150MostAsked/array/ReverseWordsInStringTwo186.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/leetcode150MostAsked/array/RotateArray189.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/leetcode150MostAsked/array/TrappingRainWater42.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/leetcode150MostAsked/array/ZigZagConversion6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/strings/leetcode/ReverseWordInAString151.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/trees/leetcode/CheckIfTwoExpressionTreeAreEquivalent1612.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/trees/leetcode/ClosetBinarySearchTreeValue270.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/trees/leetcode/EvaluateBooleanBinaryTree2331.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/trees/leetcode/SearchInBinarySearchTree700.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/trees/leetcode/MergeBinaryTree617.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/trees/leetcode/MergeBinaryTree617.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/arrays/leetcode/CheckIfMatrixIsXMatrix2319.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/arrays/leetcode/CheckIfMatrixIsXMatrix2319.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/trees/leetcode/MergeBinaryTree617.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/trees/leetcode/MergeBinaryTree617.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +61,7 @@
       <recent name="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/arrays/leetcode" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CheckIfMatrixIsXMatrix2319">
+  <component name="RunManager" selected="Application.CheckIfTwoExpressionTreeAreEquivalent1612">
     <configuration name="Candy135" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.leetcode150MostAsked.array.Candy135" />
       <module name="interviewPrep" />
@@ -107,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GasStation134" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.leetcode150MostAsked.array.GasStation134" />
+    <configuration name="CheckIfTwoExpressionTreeAreEquivalent1612" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.trees.leetcode.CheckIfTwoExpressionTreeAreEquivalent1612" />
       <module name="interviewPrep" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.vinit.dsalgo.leetcode150MostAsked.array.*" />
+          <option name="PATTERN" value="com.vinit.dsalgo.trees.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HIndex274" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.leetcode150MostAsked.array.HIndex274" />
+    <configuration name="EvaluateBooleanBinaryTree2331" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.trees.leetcode.EvaluateBooleanBinaryTree2331" />
       <module name="interviewPrep" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.vinit.dsalgo.leetcode150MostAsked.array.*" />
+          <option name="PATTERN" value="com.vinit.dsalgo.trees.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TrappingRainWater42" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.leetcode150MostAsked.array.TrappingRainWater42" />
+    <configuration name="MergeBinaryTree617" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.trees.leetcode.MergeBinaryTree617" />
       <module name="interviewPrep" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.vinit.dsalgo.leetcode150MostAsked.array.*" />
+          <option name="PATTERN" value="com.vinit.dsalgo.trees.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CheckIfTwoExpressionTreeAreEquivalent1612" />
+        <item itemvalue="Application.EvaluateBooleanBinaryTree2331" />
+        <item itemvalue="Application.MergeBinaryTree617" />
         <item itemvalue="Application.CheckIfMatrixIsXMatrix2319" />
         <item itemvalue="Application.Candy135" />
-        <item itemvalue="Application.TrappingRainWater42" />
-        <item itemvalue="Application.GasStation134" />
-        <item itemvalue="Application.HIndex274" />
       </list>
     </recent_temporary>
   </component>
