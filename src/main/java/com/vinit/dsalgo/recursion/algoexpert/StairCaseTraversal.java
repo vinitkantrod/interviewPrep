@@ -1,4 +1,4 @@
-package com.vinit.dsalgo.recursion;
+package com.vinit.dsalgo.recursion.algoexpert;
 
 import java.util.*;
 
