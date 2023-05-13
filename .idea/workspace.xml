@@ -5,41 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7f3e18b9-d64e-45b5-bd3c-1910ff52c002" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/arrays/leetcode/FindPricesWithSpecialDiscountInShop1475.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/bitwise/leetcode/NumberOfOnes191.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/dynamic_programming/leetcode/UncrossedLines1035.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/linkedlist/leetcode/ConvertBinaryNumberToInteger1290.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/linkedlist/leetcode/DeleteMNodesAfterNNodes1474.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/linkedlist/leetcode/DeleteMiddleNodeOfLinkedList2095.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/linkedlist/leetcode/DeleteNode237.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/linkedlist/leetcode/IntersectionOfTwoLinkedList160.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/linkedlist/leetcode/RemoveNodeFromLinkedList2487.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/linkedlist/leetcode/SwapNodesInPairs24.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/recursion/leetcode/PowerOfFour342.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/recursion/leetcode/PowerOfThree326.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/recursion/leetcode/PowerOfTwo231.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/recursion/leetcode/RemoveLinkedListElements203.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/stack/leetcode/MaximumNestingDepthOfParanthesis1614.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/stack/leetcode/NumberOfStudentsUnableToEatLunch1700.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/stack/leetcode/RemoveOutermostParanthesis1021.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/stack/leetcode/ValidParenthesis20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/strings/leetcode/MakeTheStringGreat1544.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/trees/leetcode/IncreasingOrderBST897.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/arrays/leetcode/StepsToMakeArrayNonDecreasing2289.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/dynamic_programming/leetcode/CountWaysToBuildGoodStrings2466.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/dynamic_programming/leetcode/SolvingQuestionWithBrainPower2140.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/leetcode75/level1/linked_list/CopyListWithRandomPointer138.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/linkedlist/leetcode/AddTwoNumbersTwo445.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/linkedlist/leetcode/MergeKList23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/linkedlist/leetcode/MergeNodesBetweenZeros2181.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/linkedlist/leetcode/PartitionList86.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/linkedlist/leetcode/PopulatingNextRightPointerinEachNode116.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/linkedlist/leetcode/PrintImmutableLinkedListInReverse1265.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/linkedlist/leetcode/RemoveDuplicatesFromUnsortedLL1836.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/linkedlist/leetcode/ReverseLinkedListTwo92.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/linkedlist/leetcode/SpiralMatrixFour2326.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/linkedlist/leetcode/SwappingNodesInTheLinkedList1721.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/recursion/GetLowestCommonManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/recursion/algoexpert/GetLowestCommonManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/recursion/InterweavingString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/recursion/algoexpert/InterweavingString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/recursion/NumberOfBinaryTreeTopologies.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/recursion/algoexpert/NumberOfBinaryTreeTopologies.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/recursion/PhoneNumberMnemonic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/recursion/algoexpert/PhoneNumberMnemonic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/recursion/StairCaseTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/recursion/algoexpert/StairCaseTraversal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/recursion/Sudoku.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/recursion/algoexpert/Sudoku.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/recursion/GetLowestCommonManager$OrgChart.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/recursion/GetLowestCommonManager$OrgInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/recursion/GetLowestCommonManager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/recursion/InterweavingString.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/recursion/NumberOfBinaryTreeTopologies.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/recursion/PhoneNumberMnemonic.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/recursion/StairCaseTraversal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/recursion/Sudoku.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/linkedlist/leetcode/SwapNodesInPairs24.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/linkedlist/leetcode/SwapNodesInPairs24.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,9 +69,9 @@
       <recent name="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/arrays/leetcode" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SwapNodesInPairs24">
-    <configuration name="ConvertBinaryNumberToInteger1290" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.linkedlist.leetcode.ConvertBinaryNumberToInteger1290" />
+  <component name="RunManager" selected="Application.SolvingQuestionWithBrainPower2140">
+    <configuration name="RemoveDuplicatesFromUnsortedLL1836" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.linkedlist.leetcode.RemoveDuplicatesFromUnsortedLL1836" />
       <module name="interviewPrep" />
       <extension name="coverage">
         <pattern>
@@ -102,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DeleteMNodesAfterNNodes1474" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.linkedlist.leetcode.DeleteMNodesAfterNNodes1474" />
+    <configuration name="SolvingQuestionWithBrainPower2140" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.dynamic_programming.leetcode.SolvingQuestionWithBrainPower2140" />
       <module name="interviewPrep" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.vinit.dsalgo.linkedlist.leetcode.*" />
+          <option name="PATTERN" value="com.vinit.dsalgo.dynamic_programming.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IntersectionOfTwoLinkedList160" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.linkedlist.leetcode.IntersectionOfTwoLinkedList160" />
+    <configuration name="SpiralMatrixFour2326" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.linkedlist.leetcode.SpiralMatrixFour2326" />
       <module name="interviewPrep" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.vinit.dsalgo.linkedlist.leetcode.*" />
+          <option name="PATTERN" value="com.vinit.dsalgo.leetcode75.level1.linked_list.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MakeTheStringGreat1544" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.strings.leetcode.MakeTheStringGreat1544" />
+    <configuration name="StepsToMakeArrayNonDecreasing2289" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.arrays.leetcode.StepsToMakeArrayNonDecreasing2289" />
       <module name="interviewPrep" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.vinit.dsalgo.strings.leetcode.*" />
+          <option name="PATTERN" value="com.vinit.dsalgo.arrays.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SwapNodesInPairs24" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.linkedlist.leetcode.SwapNodesInPairs24" />
+    <configuration name="SwappingNodesInTheLinkedList1721" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.linkedlist.leetcode.SwappingNodesInTheLinkedList1721" />
       <module name="interviewPrep" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.vinit.dsalgo.linkedlist.leetcode.*" />
+          <option name="PATTERN" value="com.vinit.dsalgo.leetcode75.level1.linked_list.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SwapNodesInPairs24" />
-        <item itemvalue="Application.MakeTheStringGreat1544" />
-        <item itemvalue="Application.IntersectionOfTwoLinkedList160" />
-        <item itemvalue="Application.DeleteMNodesAfterNNodes1474" />
-        <item itemvalue="Application.ConvertBinaryNumberToInteger1290" />
+        <item itemvalue="Application.SolvingQuestionWithBrainPower2140" />
+        <item itemvalue="Application.RemoveDuplicatesFromUnsortedLL1836" />
+        <item itemvalue="Application.StepsToMakeArrayNonDecreasing2289" />
+        <item itemvalue="Application.SpiralMatrixFour2326" />
+        <item itemvalue="Application.SwappingNodesInTheLinkedList1721" />
       </list>
     </recent_temporary>
   </component>
