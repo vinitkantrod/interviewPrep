@@ -5,13 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7f3e18b9-d64e-45b5-bd3c-1910ff52c002" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/arrays/leetcode/MissingNumber268.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/linkedlist/leetcode/ConvertBSTToCircularLL426.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/linkedlist/leetcode/ConvertSortedListToBST109.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/linkedlist/leetcode/DesignBrowserHistory1472.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/linkedlist/leetcode/MergeInBetweenLL1669.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/linkedlist/leetcode/PlusOneLinkedList369.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/linkedlist/leetcode/SortLinkedListAlreadySortedInAbsoluteValue2046.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/designPattern/strategyDesignPattern/OddRoadVehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/designPattern/strategyDesignPattern/PassengerVehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/designPattern/strategyDesignPattern/SportyVehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/designPattern/strategyDesignPattern/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/designPattern/strategyDesignPattern/VehicleMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/designPattern/strategyDesignPattern/strategy/DriveStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/designPattern/strategyDesignPattern/strategy/NormalDriveStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/designPattern/strategyDesignPattern/strategy/SpecialDriveStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/arrays/leetcode/MaximisedScoreAfterNOps1799.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/linkedlist/leetcode/AddTwoPolynomialLL1634.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/linkedlist/leetcode/FindMinAndMaxNoOfNodes2058.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/linkedlist/leetcode/FlattenAMultilevelDoubleLinkedList430.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/linkedlist/leetcode/InsertionSortList147.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/linkedlist/leetcode/LinkedListComponent817.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/linkedlist/leetcode/NextGreaterNodeInLL1019.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/linkedlist/leetcode/PopulatingNextRightPointerInEachNode117.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/linkedlist/leetcode/ReorderList143.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/linkedlist/leetcode/ReverseNodesInLL25.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,9 +72,9 @@
       <recent name="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/arrays/leetcode" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ConvertBSTToCircularLL426">
-    <configuration name="ConvertBSTToCircularLL426" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.linkedlist.leetcode.ConvertBSTToCircularLL426" />
+  <component name="RunManager" selected="Application.VehicleMain">
+    <configuration name="InsertionSortList147" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.linkedlist.leetcode.InsertionSortList147" />
       <module name="interviewPrep" />
       <extension name="coverage">
         <pattern>
@@ -75,8 +86,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveDuplicatesFromUnsortedLL1836" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.linkedlist.leetcode.RemoveDuplicatesFromUnsortedLL1836" />
+    <configuration name="NextGreaterNodeInLL1019" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.linkedlist.leetcode.NextGreaterNodeInLL1019" />
       <module name="interviewPrep" />
       <extension name="coverage">
         <pattern>
@@ -88,21 +99,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SolvingQuestionWithBrainPower2140" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.dynamic_programming.leetcode.SolvingQuestionWithBrainPower2140" />
-      <module name="interviewPrep" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.vinit.dsalgo.dynamic_programming.leetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SortLinkedListAlreadySortedInAbsoluteValue2046" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.linkedlist.leetcode.SortLinkedListAlreadySortedInAbsoluteValue2046" />
+    <configuration name="ReorderList143" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.linkedlist.leetcode.ReorderList143" />
       <module name="interviewPrep" />
       <extension name="coverage">
         <pattern>
@@ -114,12 +112,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StepsToMakeArrayNonDecreasing2289" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.arrays.leetcode.StepsToMakeArrayNonDecreasing2289" />
+    <configuration name="ReverseNodesInLL25" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.linkedlist.leetcode.ReverseNodesInLL25" />
       <module name="interviewPrep" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.vinit.dsalgo.arrays.leetcode.*" />
+          <option name="PATTERN" value="com.vinit.dsalgo.linkedlist.leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VehicleMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vinit.designPattern.strategyDesignPattern.VehicleMain" />
+      <module name="interviewPrep" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.vinit.designPattern.strategyDesignPattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ConvertBSTToCircularLL426" />
-        <item itemvalue="Application.SortLinkedListAlreadySortedInAbsoluteValue2046" />
-        <item itemvalue="Application.SolvingQuestionWithBrainPower2140" />
-        <item itemvalue="Application.RemoveDuplicatesFromUnsortedLL1836" />
-        <item itemvalue="Application.StepsToMakeArrayNonDecreasing2289" />
+        <item itemvalue="Application.VehicleMain" />
+        <item itemvalue="Application.NextGreaterNodeInLL1019" />
+        <item itemvalue="Application.InsertionSortList147" />
+        <item itemvalue="Application.ReorderList143" />
+        <item itemvalue="Application.ReverseNodesInLL25" />
       </list>
     </recent_temporary>
   </component>
