@@ -1,6 +1,4 @@
-package com.vinit.designPattern.strategyDesignPattern.strategy;
-
-import com.vinit.designPattern.strategyDesignPattern.strategy.DriveStrategy;
+package com.vinit.design.pattern.strategyPattern.strategy;
 
 public class NormalDriveStrategy implements DriveStrategy {
 

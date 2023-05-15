@@ -5,25 +5,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7f3e18b9-d64e-45b5-bd3c-1910ff52c002" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/designPattern/strategyDesignPattern/OddRoadVehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/designPattern/strategyDesignPattern/PassengerVehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/designPattern/strategyDesignPattern/SportyVehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/designPattern/strategyDesignPattern/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/designPattern/strategyDesignPattern/VehicleMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/designPattern/strategyDesignPattern/strategy/DriveStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/designPattern/strategyDesignPattern/strategy/NormalDriveStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/designPattern/strategyDesignPattern/strategy/SpecialDriveStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/arrays/leetcode/MaximisedScoreAfterNOps1799.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/linkedlist/leetcode/AddTwoPolynomialLL1634.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/linkedlist/leetcode/FindMinAndMaxNoOfNodes2058.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/linkedlist/leetcode/FlattenAMultilevelDoubleLinkedList430.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/linkedlist/leetcode/InsertionSortList147.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/linkedlist/leetcode/LinkedListComponent817.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/linkedlist/leetcode/NextGreaterNodeInLL1019.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/linkedlist/leetcode/PopulatingNextRightPointerInEachNode117.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/linkedlist/leetcode/ReorderList143.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/linkedlist/leetcode/ReverseNodesInLL25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/design/pattern/observerPattern/Store.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/design/pattern/observerPattern/observable/IphoneObservableImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/design/pattern/observerPattern/observable/StockObservable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/design/pattern/observerPattern/observer/EmailNotifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/design/pattern/observerPattern/observer/NotificationAlertObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/design/pattern/observerPattern/observer/SmsNotifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/design/pattern/strategyPattern/OddRoadVehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/design/pattern/strategyPattern/SportyVehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/design/pattern/strategyPattern/strategy/DriveStrategy.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/vinit/designPattern/strategyDesignPattern/OddRoadVehicle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/vinit/designPattern/strategyDesignPattern/PassengerVehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vinit/design/pattern/strategyPattern/PassengerVehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/vinit/designPattern/strategyDesignPattern/SportyVehicle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/vinit/designPattern/strategyDesignPattern/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vinit/design/pattern/strategyPattern/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/vinit/designPattern/strategyDesignPattern/VehicleMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vinit/design/pattern/strategyPattern/VehicleMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/vinit/designPattern/strategyDesignPattern/strategy/DriveStrategy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/vinit/designPattern/strategyDesignPattern/strategy/NormalDriveStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vinit/design/pattern/strategyPattern/strategy/NormalDriveStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/vinit/designPattern/strategyDesignPattern/strategy/SpecialDriveStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vinit/design/pattern/strategyPattern/strategy/SpecialDriveStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/designPattern/strategyDesignPattern/OddRoadVehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/designPattern/strategyDesignPattern/PassengerVehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/designPattern/strategyDesignPattern/SportyVehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/designPattern/strategyDesignPattern/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/designPattern/strategyDesignPattern/VehicleMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/designPattern/strategyDesignPattern/strategy/DriveStrategy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/designPattern/strategyDesignPattern/strategy/NormalDriveStrategy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/designPattern/strategyDesignPattern/strategy/SpecialDriveStrategy.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +40,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -72,7 +80,7 @@
       <recent name="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/arrays/leetcode" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.VehicleMain">
+  <component name="RunManager" selected="Application.Store">
     <configuration name="InsertionSortList147" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.linkedlist.leetcode.InsertionSortList147" />
       <module name="interviewPrep" />
@@ -112,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseNodesInLL25" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.linkedlist.leetcode.ReverseNodesInLL25" />
+    <configuration name="Store" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vinit.design.pattern.observerPattern.Store" />
       <module name="interviewPrep" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.vinit.dsalgo.linkedlist.leetcode.*" />
+          <option name="PATTERN" value="com.vinit.design.pattern.observerPattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,11 +134,11 @@
       </method>
     </configuration>
     <configuration name="VehicleMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vinit.designPattern.strategyDesignPattern.VehicleMain" />
+      <option name="MAIN_CLASS_NAME" value="com.vinit.design.pattern.strategyPattern.VehicleMain" />
       <module name="interviewPrep" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.vinit.designPattern.strategyDesignPattern.*" />
+          <option name="PATTERN" value="com.vinit.design.pattern.strategyPattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Store" />
         <item itemvalue="Application.VehicleMain" />
         <item itemvalue="Application.NextGreaterNodeInLL1019" />
         <item itemvalue="Application.InsertionSortList147" />
         <item itemvalue="Application.ReorderList143" />
-        <item itemvalue="Application.ReverseNodesInLL25" />
       </list>
     </recent_temporary>
   </component>

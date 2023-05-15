@@ -1,6 +1,6 @@
-package com.vinit.designPattern.strategyDesignPattern;
+package com.vinit.design.pattern.strategyPattern;
 
-import com.vinit.designPattern.strategyDesignPattern.strategy.DriveStrategy;
+import com.vinit.design.pattern.strategyPattern.strategy.DriveStrategy;
 
 public class Vehicle implements DriveStrategy {
 
