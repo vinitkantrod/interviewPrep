@@ -5,32 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7f3e18b9-d64e-45b5-bd3c-1910ff52c002" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/design/pattern/observerPattern/Store.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/design/pattern/observerPattern/observable/IphoneObservableImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/design/pattern/observerPattern/observable/StockObservable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/design/pattern/observerPattern/observer/EmailNotifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/design/pattern/observerPattern/observer/NotificationAlertObserver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/design/pattern/observerPattern/observer/SmsNotifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/design/pattern/strategyPattern/OddRoadVehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/design/pattern/strategyPattern/SportyVehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/design/pattern/strategyPattern/strategy/DriveStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/design/problems/parkingLot/ParkingLot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/design/problems/parkingLot/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/design/problems/parkingLot/parkingSpot/ParkingSpot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/design/problems/parkingLot/parkingSpot/ParkingSpotManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/design/problems/parkingLot/parkingSpot/TwoWheelerSpot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/graphs/leetcode/CloneGraph133.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/graphs/leetcode/CourseSchedule207.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/graphs/leetcode/CourseScheduleTwo210.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/graphs/leetcode/FindTheCelebrity277.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/graphs/leetcode/GraphValidTree261.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/graphs/leetcode/MinimumHeightTree310.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/graphs/leetcode/NumberOfConnectedComponents323.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/graphs/leetcode/RedundantConnection684.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/strings/leetcode/AddBinary67.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/strings/leetcode/GroupAnagrams49.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/strings/leetcode/MinimiumSumOfFourDigitNum2160.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/vinit/designPattern/strategyDesignPattern/OddRoadVehicle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/vinit/designPattern/strategyDesignPattern/PassengerVehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vinit/design/pattern/strategyPattern/PassengerVehicle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/vinit/designPattern/strategyDesignPattern/SportyVehicle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/vinit/designPattern/strategyDesignPattern/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vinit/design/pattern/strategyPattern/Vehicle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/vinit/designPattern/strategyDesignPattern/VehicleMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vinit/design/pattern/strategyPattern/VehicleMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/vinit/designPattern/strategyDesignPattern/strategy/DriveStrategy.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/vinit/designPattern/strategyDesignPattern/strategy/NormalDriveStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vinit/design/pattern/strategyPattern/strategy/NormalDriveStrategy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/vinit/designPattern/strategyDesignPattern/strategy/SpecialDriveStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vinit/design/pattern/strategyPattern/strategy/SpecialDriveStrategy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/designPattern/strategyDesignPattern/OddRoadVehicle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/designPattern/strategyDesignPattern/PassengerVehicle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/designPattern/strategyDesignPattern/SportyVehicle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/designPattern/strategyDesignPattern/Vehicle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/designPattern/strategyDesignPattern/VehicleMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/designPattern/strategyDesignPattern/strategy/DriveStrategy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/designPattern/strategyDesignPattern/strategy/NormalDriveStrategy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/designPattern/strategyDesignPattern/strategy/SpecialDriveStrategy.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,13 +71,13 @@
       <recent name="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/arrays/leetcode" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Store">
-    <configuration name="InsertionSortList147" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.linkedlist.leetcode.InsertionSortList147" />
+  <component name="RunManager" selected="Application.RedundantConnection684">
+    <configuration name="CourseSchedule207" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.graphs.leetcode.CourseSchedule207" />
       <module name="interviewPrep" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.vinit.dsalgo.linkedlist.leetcode.*" />
+          <option name="PATTERN" value="com.vinit.dsalgo.graphs.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NextGreaterNodeInLL1019" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.linkedlist.leetcode.NextGreaterNodeInLL1019" />
+    <configuration name="GraphValidTree261" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.graphs.leetcode.GraphValidTree261" />
       <module name="interviewPrep" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.vinit.dsalgo.linkedlist.leetcode.*" />
+          <option name="PATTERN" value="com.vinit.dsalgo.graphs.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReorderList143" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.linkedlist.leetcode.ReorderList143" />
+    <configuration name="MinimumHeightTree310" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.graphs.leetcode.MinimumHeightTree310" />
       <module name="interviewPrep" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.vinit.dsalgo.linkedlist.leetcode.*" />
+          <option name="PATTERN" value="com.vinit.dsalgo.graphs.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Store" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vinit.design.pattern.observerPattern.Store" />
+    <configuration name="NumberOfConnectedComponents323" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.graphs.leetcode.NumberOfConnectedComponents323" />
       <module name="interviewPrep" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.vinit.design.pattern.observerPattern.*" />
+          <option name="PATTERN" value="com.vinit.dsalgo.graphs.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VehicleMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vinit.design.pattern.strategyPattern.VehicleMain" />
+    <configuration name="RedundantConnection684" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.graphs.leetcode.RedundantConnection684" />
       <module name="interviewPrep" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.vinit.design.pattern.strategyPattern.*" />
+          <option name="PATTERN" value="com.vinit.dsalgo.graphs.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Store" />
-        <item itemvalue="Application.VehicleMain" />
-        <item itemvalue="Application.NextGreaterNodeInLL1019" />
-        <item itemvalue="Application.InsertionSortList147" />
-        <item itemvalue="Application.ReorderList143" />
+        <item itemvalue="Application.RedundantConnection684" />
+        <item itemvalue="Application.MinimumHeightTree310" />
+        <item itemvalue="Application.NumberOfConnectedComponents323" />
+        <item itemvalue="Application.GraphValidTree261" />
+        <item itemvalue="Application.CourseSchedule207" />
       </list>
     </recent_temporary>
   </component>
