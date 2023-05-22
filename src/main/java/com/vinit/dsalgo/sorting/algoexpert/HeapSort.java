@@ -11,6 +11,7 @@ public class HeapSort {
             heapify(array, n, i);
             System.out.println("Finished first loop: " + Arrays.toString(array));
         }
+        System.out.println("Arrays: " + Arrays.toString(array));
         for (int i = n - 1; i > 0; i--) {
             int temp = array[0];
             array[0] = array[i];

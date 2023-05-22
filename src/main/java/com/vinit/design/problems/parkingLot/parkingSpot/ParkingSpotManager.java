@@ -27,5 +27,4 @@ public class ParkingSpotManager {
 
     public void removeVehicle(Vehicle _vehicle) {};
 
-
 }

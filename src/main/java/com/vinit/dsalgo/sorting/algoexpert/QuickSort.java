@@ -11,6 +11,7 @@ public class QuickSort {
 
     public static void quick(int[] array, int left, int right) {
         if (left < right) {
+            System.out.println(Arrays.toString(array));
             int partition = partition(array, left, right);
             quick(array, left, partition - 1);
             quick(array, partition + 1, right);
@@ -21,12 +22,15 @@ public class QuickSort {
         int pivot = array[right];
         int i = left - 1;
         for (int j = left; j < right; j++) {
+            System.out.println(i +","+j);
             if (array[j] < pivot) {
                 i++;
                 swap(array, i, j);
+                System.out.println("swapping: " + Arrays.toString(array));
             }
         }
         swap(array, i + 1, right);
+        System.out.println("after swapping: " + Arrays.toString(array));
         return i + 1;
     }
 

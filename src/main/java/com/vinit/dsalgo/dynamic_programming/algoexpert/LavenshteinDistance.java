@@ -22,6 +22,9 @@ public class LavenshteinDistance {
                     matrix[i][j] = 1 + Math.min(matrix[i][j - 1], Math.min(matrix[i - 1][j - 1], matrix[i - 1][j]));
             }
         }
+        for (int i = 0; i < matrix.length; i++) {
+            System.out.println(Arrays.toString(matrix[i]));
+        }
         return matrix[str2.length()][str1.length()];
     }
 

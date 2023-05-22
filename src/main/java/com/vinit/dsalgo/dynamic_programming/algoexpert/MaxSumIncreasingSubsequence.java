@@ -37,6 +37,31 @@ public class MaxSumIncreasingSubsequence {
         return sequences;
     }
 
+    public static List<List<Integer>> maxSumIncreasingSubsequence1(int[] array) {
+        // Write your code here.
+        int[] sequence = new int[array.length];
+        int[] sum = array.clone();
+        Arrays.fill(sequence, Integer.MIN_VALUE);
+        int maxSumIndex = 0;
+        for (int i = 0; i < array.length; i++) {
+            int currentNum = array[i];
+            for (int j = 0; j < i; j++) {
+                int otherNum = array[j];
+                if (otherNum < currentNum && sum[j] + currentNum >= sum[i]) {
+                    sum[i] = sum[j] + currentNum;
+                    sequence[i] = j;
+                }
+            }
+            if (sum[i] >= sum[maxSumIndex]) maxSumIndex = i;
+        }
+        System.out.println("sum: "  + Arrays.toString(sum));
+        System.out.println("sequence: " + Arrays.toString(sequence));
+
+        List<List<Integer>> res = new ArrayList<>();
+
+        return res;
+    }
+
 //    public static List<List<Integer>> maxSumIncreasingSubsequence(int[] array) {
 //        int[] maxSumArray = new int[array.length];
 //        int[] sequence = new int[array.length];
@@ -82,8 +107,9 @@ public class MaxSumIncreasingSubsequence {
 //        return response;
 //    }
     public static void main(String args[]) {
-//        int[] arr = {10,70, 20, 30, 50, 11, 30};
-        int[] arr = {-1, 1};
-        maxSumIncreasingSubsequence(arr);
+        int[] arr = {10,70, 20, 30, 50, 11, 30};
+//        int[] arr = {-1, 1};
+//        maxSumIncreasingSubsequence(arr);
+        maxSumIncreasingSubsequence1(arr);
     }
 }

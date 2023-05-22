@@ -13,6 +13,7 @@ public class ArraysOfProduct {
             product[i] = leftProduct;
             leftProduct *= array[i];
         }
+        System.out.println(Arrays.toString(product));
         for ( int i = array.length - 1; i >= 0; i--) {
             product[i] *= rightProduct;
             rightProduct *= array[i];
