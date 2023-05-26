@@ -5,28 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7f3e18b9-d64e-45b5-bd3c-1910ff52c002" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/design/pattern/builder/Builder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/design/pattern/builder/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/design/pattern/builder/CarBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/design/pattern/builder/CarMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/design/pattern/builder/Director.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/design/pattern/builder/Manual.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/design/pattern/builder/ManualBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/arrays/leetcode/BuildArrayFromPermutation1920.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/arrays/leetcode/ConcatenationOfArray1929.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/arrays/leetcode/CreateTargetArrayInGivenOrder1389.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/arrays/leetcode/DotProductOfTwoSparseVector1570.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/arrays/leetcode/FinalValueOfVariable2011.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/arrays/leetcode/GroupPeopleGiventheGroupSizeTheyBelongTo1282.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/arrays/leetcode/KidsWithNGreatestCandies1431.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/arrays/leetcode/LeftAndRightSumDifference2574.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/arrays/leetcode/MaximumNumOfWordsFoundInSentences2114.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/arrays/leetcode/MedianOfTwoSortedArray4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/arrays/leetcode/ShuffleTheArray1470.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/arrays/leetcode/UniqueThreePalindrome1930.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/design/leetcode/DesignSQL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/design/leetcode/DesignTinyUrl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/arrays/leetcode/AvgSalaryExMinAndMax1491.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/arrays/leetcode/MaximumSubSequenceScore2545.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/backtrack/leetcode/CombinationSum39.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/backtrack/leetcode/CombinationSumTwo40.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/backtrack/leetcode/PalindromePartiioning131.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/backtrack/leetcode/PalindromePartitioningTwo132.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/backtrack/leetcode/Permutation46.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/backtrack/leetcode/PermutationTwo47.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/backtrack/leetcode/SubSet78.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/backtrack/leetcode/SubSetTwo90.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/strings/leetcode/MinimumWindowSubString76.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/trees/leetcode/AverageOfLevelsOfBinaryTree637.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/trees/leetcode/CloneBinaryTreeWithRandomPointer1485.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/trees/leetcode/CloneNAryTree1490.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/trees/leetcode/MaximumDepthOfNAryTree559.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/trees/leetcode/SumOfLeftLeave404.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/trees/leetcode/SumOfRootToLeafBinaryTree1022.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/design/leetcode/DesignSQL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/design/leetcode/DesignSQL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/dynamic_programming/algoexpert/KnapsackProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/dynamic_programming/algoexpert/KnapsackProblem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/dynamic_programming/algoexpert/KnapsackProblem.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/dynamic_programming/algoexpert/KnapsackProblem.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,13 +75,13 @@
       <recent name="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/arrays/leetcode" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.GroupPeopleGiventheGroupSizeTheyBelongTo1282">
-    <configuration name="ArraysOfProduct" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.arrays.algoexpert.ArraysOfProduct" />
+  <component name="RunManager" selected="Application.SumOfLeftLeave404">
+    <configuration name="AverageOfLevelsOfBinaryTree637" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.trees.leetcode.AverageOfLevelsOfBinaryTree637" />
       <module name="interviewPrep" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.vinit.dsalgo.arrays.algoexpert.*" />
+          <option name="PATTERN" value="com.vinit.dsalgo.trees.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,34 +89,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CarMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vinit.design.pattern.builder.CarMain" />
-      <module name="interviewPrep" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.vinit.design.pattern.builder.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DesignCompressStringIterator604" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.design.leetcode.DesignCompressStringIterator604" />
-      <module name="interviewPrep" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.vinit.dsalgo.design.leetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GroupPeopleGiventheGroupSizeTheyBelongTo1282" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.arrays.leetcode.GroupPeopleGiventheGroupSizeTheyBelongTo1282" />
+    <configuration name="AvgSalaryExMinAndMax1491" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.arrays.leetcode.AvgSalaryExMinAndMax1491" />
       <module name="interviewPrep" />
       <extension name="coverage">
         <pattern>
@@ -129,12 +102,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TopKFreqElement347" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.arrays.leetcode.TopKFreqElement347" />
+    <configuration name="PalindromePartitioningTwo132" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.backtrack.leetcode.PalindromePartitioningTwo132" />
       <module name="interviewPrep" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.vinit.dsalgo.arrays.leetcode.*" />
+          <option name="PATTERN" value="com.vinit.dsalgo.backtrack.leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SumOfLeftLeave404" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.trees.leetcode.SumOfLeftLeave404" />
+      <module name="interviewPrep" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.vinit.dsalgo.trees.leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SumOfRootToLeafBinaryTree1022" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.trees.leetcode.SumOfRootToLeafBinaryTree1022" />
+      <module name="interviewPrep" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.vinit.dsalgo.trees.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.GroupPeopleGiventheGroupSizeTheyBelongTo1282" />
-        <item itemvalue="Application.CarMain" />
-        <item itemvalue="Application.ArraysOfProduct" />
-        <item itemvalue="Application.TopKFreqElement347" />
-        <item itemvalue="Application.DesignCompressStringIterator604" />
+        <item itemvalue="Application.SumOfLeftLeave404" />
+        <item itemvalue="Application.AverageOfLevelsOfBinaryTree637" />
+        <item itemvalue="Application.SumOfRootToLeafBinaryTree1022" />
+        <item itemvalue="Application.AvgSalaryExMinAndMax1491" />
+        <item itemvalue="Application.PalindromePartitioningTwo132" />
       </list>
     </recent_temporary>
   </component>

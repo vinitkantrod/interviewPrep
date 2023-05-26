@@ -36,7 +36,7 @@ public class KnapsackProblem {
                             knapsack[i - 1][c - currentWeight] + currentValue
                     );
                 }
-                System.out.println(i + " - " + tempRes.get(0));
+//                System.out.println(i + " - " + tempRes.get(0));
             }
         }
         for (int i = 0; i < items.length + 1; i++) {
@@ -45,13 +45,17 @@ public class KnapsackProblem {
             }
             System.out.println("");
         }
-        res.add(0, new ArrayList<>(Arrays.asList(knapsack[items.length - 1][capacity])));
-        return getKnapsack(items, knapsack, capacity, 10);
+        List<List<Integer>> res1 = new ArrayList<>();
+//        res1.add(knapsack[items.length - 1][capacity]);
+//        res.add(0, getKnapsack(items, knapsack, capacity, 0));
+        return res;
 //        return knapsack[items.length - 1][capacity];
     }
 
-    public static List<List<Integer>> getKnapsack(int[][] items, int[][] knapsack, int capacity, int weight) {
-        return new ArrayList<List<Integer>>();
+    public static List<Integer> getKnapsack(int[][] items, int[][] knapsack, int capacity, int weight) {
+        List<Integer> sequence = new ArrayList<>();
+
+        return sequence;
     }
     public static void main(String[] args) {
         int[][] k = {{1,2}, {4,3}, {5,6}, {6,7}};
