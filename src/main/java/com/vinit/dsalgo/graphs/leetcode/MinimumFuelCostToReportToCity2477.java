@@ -7,36 +7,40 @@ public class MinimumFuelCostToReportToCity2477 {
     public static long minimumFuelCost(int[][] roads, int seats) {
         if (roads.length == 0) return 0;
         Map<Integer, List<Integer>> map = new HashMap<>();
+        int n = roads.length + 1;
+        int[] degree = new int[n];
         for (int i = 0; i < roads.length; i++) {
             int[] road = roads[i];
-            if (!map.containsKey(road[0])) map.put(road[0], new ArrayList<>());
-            if (!map.containsKey(road[1])) map.put(road[1], new ArrayList<>());
-            map.get(road[0]).add(road[1]);
-            map.get(road[1]).add(road[0]);
+            map.computeIfAbsent(road[0], k-> new ArrayList<>()).add(road[1]);
+            map.computeIfAbsent(road[1], k-> new ArrayList<>()).add(road[0]);
+            degree[road[0]]++;
+            degree[road[1]]++;
         }
-        System.out.println(map);
-        Queue<Integer> leafNodes = new LinkedList<>();
-        for (Map.Entry<Integer, List<Integer>> m : map.entrySet()) {
-            if (m.getValue().size() == 1) {
-                leafNodes.add(m.getKey());
-            }
-        }
-        System.out.println(leafNodes);
-        Map<Integer, Long> leafToRootDistance = new HashMap<>();
-        while (!leafNodes.isEmpty()) {
-            // find the distance from leaf to root.
-            int node = leafNodes.poll();
-            Set<Integer> visited = new HashSet<>();
-            leafToRootDistance.put(node, distanceToRoot(node, map));
-        }
-        long totalFuel = 0;
-        for (Map.Entry<Integer, Long> m : leafToRootDistance.entrySet()) {
-            totalFuel += Math.ceil( m.getValue() / (double) seats);
-            System.out.println(m.getKey() + "-" + m.getValue() + "=" + totalFuel);
-        }
-        return totalFuel;
+
+        return bfs(map, degree, n, seats);
     }
 
+    public static long bfs(Map<Integer, List<Integer>> map, int[] degree, int n, int seat) {
+        long fuel = 0;
+        Queue<Integer> q = new LinkedList<>();
+        for (int i = 1; i < n; i++) {
+            if (degree[i] == 1) q.offer(i);
+        }
+        int[] representative = new int[n];
+        Arrays.fill(representative, 1);
+        while (!q.isEmpty()) {
+            int node = q.poll();
+            fuel += Math.ceil((double) representative[node] / seat);
+            for (int neighbour : map.get(node)) {
+                degree[neighbour]--;
+                representative[neighbour] += representative[node];
+                if (degree[neighbour] == 1 && neighbour != 0) {
+                    q.offer(neighbour);
+                }
+            }
+        }
+        return fuel;
+    }
     public static long distanceToRoot(int node, Map<Integer, List<Integer>> map) {
         if (node == 0) return 0;
         long distance = 0;
