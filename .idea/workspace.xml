@@ -5,9 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7f3e18b9-d64e-45b5-bd3c-1910ff52c002" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/arrays/leetcode/DeleteGreatestValueInEachRow2500.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/arrays/leetcode/MaximumProductOfTwoElement1464.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/arrays/leetcode/ArrayPartition561.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/arrays/leetcode/CellWithOddValuesInMatrix1252.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/arrays/leetcode/CountEqualAndDivisiblePair2176.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/arrays/leetcode/CountingWordsWithGivenPrefix2185.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/arrays/leetcode/FindNumberWithEvenNumberOfDigits1295.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/arrays/leetcode/FindTheHighestAltitude1732.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/arrays/leetcode/FirstPalindromicStringInArray2108.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/arrays/leetcode/MinimumOpsToMakeArrayIncreasing1827.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/arrays/leetcode/NumOfRectanglesThatCanFormSquare1725.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/arrays/leetcode/NumberOfSeniorCitizen2678.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/arrays/leetcode/SummaryRange228.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/strings/leetcode/CountAndSay38.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/trees/leetcode/EncodeNAryTreeToBT431.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/trees/leetcode/MinimumAbsoluteDifferenceBST530.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/trees/leetcode/UniqueBST95.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/trees/leetcode/VerticalOrderTraversal987.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/arrays/leetcode/SumOfAllSubsetXORTotals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/arrays/leetcode/SumOfAllSubsetXORTotals.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/arrays/leetcode/SumOfAllSubsetXORTotals.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/arrays/leetcode/SumOfAllSubsetXORTotals.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,9 +75,9 @@
       <recent name="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/arrays/leetcode" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DeleteGreatestValueInEachRow2500">
-    <configuration name="CountGoodTriplets1534" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.arrays.leetcode.CountGoodTriplets1534" />
+  <component name="RunManager" selected="Application.UniqueBST95">
+    <configuration name="ArrayPartition561" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.arrays.leetcode.ArrayPartition561" />
       <module name="interviewPrep" />
       <extension name="coverage">
         <pattern>
@@ -73,8 +89,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DeleteGreatestValueInEachRow2500" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.arrays.leetcode.DeleteGreatestValueInEachRow2500" />
+    <configuration name="CountAndSay38" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.strings.leetcode.CountAndSay38" />
+      <module name="interviewPrep" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.vinit.dsalgo.strings.leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CountingWordsWithGivenPrefix2185" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.arrays.leetcode.CountingWordsWithGivenPrefix2185" />
       <module name="interviewPrep" />
       <extension name="coverage">
         <pattern>
@@ -86,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindSmallestLetterGreaterThanTarget744" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.arrays.leetcode.FindSmallestLetterGreaterThanTarget744" />
+    <configuration name="UniqueBST95" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.trees.leetcode.UniqueBST95" />
       <module name="interviewPrep" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.vinit.dsalgo.arrays.leetcode.*" />
+          <option name="PATTERN" value="com.vinit.dsalgo.trees.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,25 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumOfAllOddLengthSubArray1588" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.arrays.leetcode.SumOfAllOddLengthSubArray1588" />
+    <configuration name="VerticalOrderTraversal987" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.trees.leetcode.VerticalOrderTraversal987" />
       <module name="interviewPrep" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.vinit.dsalgo.arrays.leetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SumOfAllSubsetXORTotals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.arrays.leetcode.SumOfAllSubsetXORTotals" />
-      <module name="interviewPrep" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.vinit.dsalgo.arrays.leetcode.*" />
+          <option name="PATTERN" value="com.vinit.dsalgo.trees.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DeleteGreatestValueInEachRow2500" />
-        <item itemvalue="Application.FindSmallestLetterGreaterThanTarget744" />
-        <item itemvalue="Application.SumOfAllSubsetXORTotals" />
-        <item itemvalue="Application.CountGoodTriplets1534" />
-        <item itemvalue="Application.SumOfAllOddLengthSubArray1588" />
+        <item itemvalue="Application.UniqueBST95" />
+        <item itemvalue="Application.VerticalOrderTraversal987" />
+        <item itemvalue="Application.CountAndSay38" />
+        <item itemvalue="Application.CountingWordsWithGivenPrefix2185" />
+        <item itemvalue="Application.ArrayPartition561" />
       </list>
     </recent_temporary>
   </component>
