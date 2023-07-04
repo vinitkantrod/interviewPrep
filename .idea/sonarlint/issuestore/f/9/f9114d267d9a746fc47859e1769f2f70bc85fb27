@@ -1,6 +1,0 @@
-
-U	java:S106%"9Replace this use of System.out or System.err by a logger.(¡´Í™8Àì“Ìû.
-~
-java:S1128"aRemove this unused import 'com.vinit.dsalgo.trees.narasimha_karumanchi_book.LevelOrderTraversal'.(àçßİ8Ê¡ÛËû.
-Z
-java:S1197."8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8Çœ×Ëû.

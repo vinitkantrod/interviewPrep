@@ -1,15 +1,0 @@
-
-†
-java:S1319
-"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(œ¤şù
-†
-java:S1319
-"pThe type of the "tasks" object should be an interface such as "List" rather than the implementation "ArrayList".(œ¤şù
->
-java:S1604"(Make this anonymous inner class a lambda(ËĞ—œ
->
-java:S1172
-"(Remove this unused method parameter "k".(œ¤şù
-S
-java:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(çÃ£’şÿÿÿÿ

@@ -1,9 +1,0 @@
-
-†
-java:S1319	"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(âßÅº
-H
-java:S1172	"2Remove this unused method parameter "phoneNumber".(âßÅº
-o
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÆğÜÒ
-S
-java:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ

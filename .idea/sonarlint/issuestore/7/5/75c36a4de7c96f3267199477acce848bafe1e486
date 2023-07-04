@@ -1,14 +1,0 @@
-
-r
-java:S1104	"PMake left a static final constant or non-public and provide accessors if needed.(ä¢áÙıÿÿÿÿ8ğşúû.
-Z
-java:S1197"8Move the array designator from the variable to the type.(¡şÏÖøÿÿÿÿ8ê‹ıúû.
-o
-java:S1104"RMake parent a static final constant or non-public and provide accessors if needed.(Ü¸¾£8ğşúû.
-s
-java:S1104"QMake value a static final constant or non-public and provide accessors if needed.(‚¯¥ùÿÿÿÿ8ğşúû.
-n
-java:S1104
-"QMake right a static final constant or non-public and provide accessors if needed.(¶‡¸Ü8ğşúû.
-£
-java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¿ï®ıÿÿÿÿ8Æ‡ûû.
