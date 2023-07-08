@@ -5,18 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9d2eff33-40e6-4f50-9410-6203be379c19" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/arrays/leetcode/CalculateDigitSumOfString2243.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/arrays/leetcode/CanPlaceFlowers605.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/arrays/leetcode/FindGCDOfArray1979.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/arrays/leetcode/FindTriangluaSum2221.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/arrays/leetcode/IncreasingTripletSubSequence334.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/arrays/leetcode/MinimumNumberOfArrowToBurstBallon452.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/strings/BuddyString859.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/strings/leetcode/GreatestCommonDivisorOfString1071.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/strings/leetcode/MergeStringAlternatively1768.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/strings/leetcode/StringCompression443.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/tries/SearchSuggestionSystem1268.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/arrays/leetcode/CountGoodMeals1711.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/arrays/leetcode/DailyTemperature739.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/arrays/leetcode/MaxNumberOfKSumPairs1679.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/arrays/leetcode/NonOverLappingIntervals435.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/graphs/leetcode/NumberOfProvinces547.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/hashtable/leetcode/DetermineIfTwoStringAreClose1657.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/hashtable/leetcode/EqualRowsAndColumnPairs2352.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/slidingwindow/leetcode/LongestSubArrayOfOnesAfterDeletingOneElement1493.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/slidingwindow/leetcode/ManimumNumberOfVowelInSubString1456.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/slidingwindow/leetcode/MaxConsecutiveOnesThree1004.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/slidingwindow/leetcode/MaximumAverageSubArray643.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/stack/leetcode/AsteroidCollision735.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/stack/leetcode/OnlineStockSpan901.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/trees/leetcode/BinaryTreeRightView199.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/trees/leetcode/DeleteNodeInBST450.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/trees/leetcode/GoodNodesInBST1448.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/trees/leetcode/LongestZigZagPath1372.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/trees/leetcode/MaximumLevelSumOfBinaryTree1161.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/trees/leetcode/ReorderRoutesToMakeAllPathLeadToZero1466.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/strings/leetcode/MinimumWindowSubString76.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/strings/leetcode/MinimumWindowSubString76.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/strings/leetcode/MinimumWindowSubString76.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/strings/leetcode/MinimumWindowSubString76.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/strings/leetcode/StringCompression443.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/strings/leetcode/StringCompression443.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,13 +75,13 @@
     &quot;last_opened_file_path&quot;: &quot;/Users/roshnibatra/vinit/interviewPrep&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.StringCompression443">
-    <configuration name="BuddyString859" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.strings.BuddyString859" />
+  <component name="RunManager" selected="Application.NumberOfProvinces547">
+    <configuration name="BinaryTreeRightView199" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.trees.leetcode.BinaryTreeRightView199" />
       <module name="strings" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.vinit.dsalgo.strings.*" />
+          <option name="PATTERN" value="com.vinit.dsalgo.trees.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CanPlaceFlowers605" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.arrays.leetcode.CanPlaceFlowers605" />
+    <configuration name="GoodNodesInBST1448" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.trees.leetcode.GoodNodesInBST1448" />
       <module name="strings" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.vinit.dsalgo.arrays.leetcode.*" />
+          <option name="PATTERN" value="com.vinit.dsalgo.trees.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindGCDOfArray1979" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.arrays.leetcode.FindGCDOfArray1979" />
+    <configuration name="LongestZigZagPath1372" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.trees.leetcode.LongestZigZagPath1372" />
       <module name="strings" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.vinit.dsalgo.arrays.leetcode.*" />
+          <option name="PATTERN" value="com.vinit.dsalgo.trees.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,8 +115,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeStringAlternatively1768" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.strings.leetcode.MergeStringAlternatively1768" />
+    <configuration name="MinimumWindowSubString76" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.strings.leetcode.MinimumWindowSubString76" />
       <module name="strings" />
       <extension name="coverage">
         <pattern>
@@ -117,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringCompression443" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.strings.leetcode.StringCompression443" />
+    <configuration name="NumberOfProvinces547" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.graphs.leetcode.NumberOfProvinces547" />
       <module name="strings" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.vinit.dsalgo.strings.leetcode.*" />
+          <option name="PATTERN" value="com.vinit.dsalgo.graphs.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StringCompression443" />
-        <item itemvalue="Application.CanPlaceFlowers605" />
-        <item itemvalue="Application.FindGCDOfArray1979" />
-        <item itemvalue="Application.MergeStringAlternatively1768" />
-        <item itemvalue="Application.BuddyString859" />
+        <item itemvalue="Application.NumberOfProvinces547" />
+        <item itemvalue="Application.BinaryTreeRightView199" />
+        <item itemvalue="Application.MinimumWindowSubString76" />
+        <item itemvalue="Application.LongestZigZagPath1372" />
+        <item itemvalue="Application.GoodNodesInBST1448" />
       </list>
     </recent_temporary>
   </component>

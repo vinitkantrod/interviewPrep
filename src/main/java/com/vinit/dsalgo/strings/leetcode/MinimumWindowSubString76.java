@@ -84,7 +84,67 @@ public class MinimumWindowSubString76 {
         return ans[0] == -1 ? "" : s.substring(ans[1], ans[2] + 1);
     }
 
+    public static String getSubString(String s1, String s2) {
+        if (s1.length() == 0 || s2.length() == 0 || s1.length() < s2.length()) return "";
+        Map<Character, Integer> characterCount= new HashMap<>();
+        Set<Character> charsSet = new HashSet<>();
+        for (char c : s2.toCharArray()) {
+            characterCount.put(c, characterCount.getOrDefault(c, 0) + 1);
+            charsSet.add(c);
+        }
+        System.out.println("characterCount: " + characterCount);
+        System.out.println("charsSet: " + charsSet);
+        int left = 0;
+        int right = 0;
+        String subString = "";
+        Set<Character> chars = new HashSet<>();
+        int[] count = new int[26];
+        while (right < s1.length()) {
+            char c = s1.charAt(right);
+            if (characterCount.containsKey(c)) {
+                chars.add(c);
+                count[c - 'A']++;
+            }
+
+            while (left < right && chars.size() == charsSet.size()) {
+                int cc = 0;
+                for (char i : chars) {
+                    if (count[i - 'A'] < characterCount.get(i)) {
+                        break;
+                    }
+                    cc++;
+                }
+                if (cc == chars.size()) {
+                    String sub = s1.substring(left, right + 1);
+                    // System.out.println("SUBSTRING: " + sub);
+                    if (subString.equals("")) {
+                        subString = sub;
+                    } else {
+                        if (sub.length() < subString.length()) {
+                            subString = sub;
+                        }
+                    }
+                    // System.out.println("subString: " + subString);
+                    char ch = s1.charAt(left);
+                    if (count[ch - 'A'] != 0)  {
+                        count[ch - 'A']--;
+                        if (count[ch - 'A'] == 0) {
+                            chars.remove(ch);
+                            cc--;
+                        }
+                    }
+                    left++;
+                } else {
+                    break;
+                }
+            }
+            right++;
+        }
+        return subString;
+    }
     public static void main(String[] args) {
+
         System.out.println(minWindow("ADOBECODEBANC", "ABC"));
+        System.out.println(getSubString("ADOBECODEBANC", "ABC"));
     }
 }
