@@ -6,26 +6,22 @@ import java.util.List;
 
 public class SummaryRange228 {
     public static List<String> summaryRanges(int[] nums) {
-        List<String> list = new ArrayList<>();
-        int startCounter = nums[0];
-        startCounter++;
-        int startValue = nums[0];
-        String s = String.valueOf(nums[0]);
-        for (int i = 1; i < nums.length; i++) {
-            if (startCounter != nums[i]) {
-                startCounter = nums[i];
-                list.add(s);
-                s = String.valueOf(nums[i]);
+        List<String> range = new ArrayList<>();
+        for (int i = 0; i < nums.length; i++) {
+            int start = nums[i];
+            while (i + 1 < nums.length && nums[i + 1] - nums[i] <= 1) {
+                i++;
+            }
+            if (start != nums[i]) {
+                range.add(start + "->" + nums[i]);
             } else {
-                if (startValue != nums[i]) {
-
-                }
+                range.add(String.valueOf(start));
             }
         }
-        return list;
+        return range;
     }
     public static void main(String[] args) {
-        int[] n = {1};
+        int[] n = {1,2,3,5,6,11};
         System.out.println(Arrays.asList(summaryRanges(n)));
     }
 }
