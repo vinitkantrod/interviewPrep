@@ -5,8 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9d2eff33-40e6-4f50-9410-6203be379c19" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/hashtable/leetcode/LongestConsecutiveSequence128.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/hashtable/leetcode/t" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/arrays/ArrayOfProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/arrays/BestSeat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/arrays/FirstDuplicateValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/arrays/LongestPeak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/arrays/MajorityElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/arrays/MergeOverlappingIntervals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/arrays/MinRewards.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/arrays/MissingNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/arrays/MonotonicArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/arrays/MoveElementToTheEnd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/arrays/NonConstructibleChange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/arrays/SmallestDifference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/arrays/SortedSquareArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/arrays/SpiralTraverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/arrays/SweetAndSavory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/arrays/ThreeNumberSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/arrays/TournamentWinner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/arrays/TransposeMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/arrays/TwoNumberSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/arrays/ValidateSubSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/arrays/ZeroSumSubArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,35 +60,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.go.formatter.settings.were.checked": "true",
-    "RunOnceActivity.go.migrated.go.modules.settings": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "go.import.settings.migrated": "true",
-    "last_opened_file_path": "/Users/vinit.kantrod/project/interview/interviewPrep",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Problems",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/vinit.kantrod/project/interview/interviewPrep&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Problems&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.SumOfValuesAtIndicesWithKSetBit2859">
-    <configuration name="CountNicePairInArray1814" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.arrays.leetcode.CountNicePairInArray1814" />
+}</component>
+  <component name="RunManager" selected="Application.SweetAndSavory">
+    <configuration name="BestSeat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.algoexpert.arrays.BestSeat" />
       <module name="strings" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.vinit.dsalgo.arrays.leetcode.*" />
+          <option name="PATTERN" value="com.vinit.dsalgo.algoexpert.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CountPairsWhoseSumIsLessThanTarget2824" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.arrays.leetcode.CountPairsWhoseSumIsLessThanTarget2824" />
+    <configuration name="MajorityElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.algoexpert.arrays.MajorityElements" />
       <module name="strings" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.vinit.dsalgo.arrays.leetcode.*" />
+          <option name="PATTERN" value="com.vinit.dsalgo.algoexpert.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DesignAddAndSearchWords211" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.design.leetcode.DesignAddAndSearchWords211" />
+    <configuration name="MergeOverlappingIntervals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.algoexpert.arrays.MergeOverlappingIntervals" />
       <module name="strings" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.vinit.dsalgo.design.leetcode.*" />
+          <option name="PATTERN" value="com.vinit.dsalgo.algoexpert.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseWordInAString151" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.strings.leetcode.ReverseWordInAString151" />
+    <configuration name="MissingNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.algoexpert.arrays.MissingNumber" />
       <module name="strings" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.vinit.dsalgo.strings.leetcode.*" />
+          <option name="PATTERN" value="com.vinit.dsalgo.algoexpert.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +135,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumOfValuesAtIndicesWithKSetBit2859" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.arrays.leetcode.SumOfValuesAtIndicesWithKSetBit2859" />
+    <configuration name="SweetAndSavory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.algoexpert.arrays.SweetAndSavory" />
       <module name="strings" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.vinit.dsalgo.arrays.leetcode.*" />
+          <option name="PATTERN" value="com.vinit.dsalgo.algoexpert.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SumOfValuesAtIndicesWithKSetBit2859" />
-        <item itemvalue="Application.CountPairsWhoseSumIsLessThanTarget2824" />
-        <item itemvalue="Application.DesignAddAndSearchWords211" />
-        <item itemvalue="Application.CountNicePairInArray1814" />
-        <item itemvalue="Application.ReverseWordInAString151" />
+        <item itemvalue="Application.SweetAndSavory" />
+        <item itemvalue="Application.MajorityElements" />
+        <item itemvalue="Application.MissingNumber" />
+        <item itemvalue="Application.BestSeat" />
+        <item itemvalue="Application.MergeOverlappingIntervals" />
       </list>
     </recent_temporary>
   </component>
@@ -156,6 +176,9 @@
       <workItem from="1700479161823" duration="7156000" />
       <workItem from="1700752350709" duration="2277000" />
       <workItem from="1702395895303" duration="16529000" />
+      <workItem from="1703498537648" duration="13489000" />
+      <workItem from="1704080068618" duration="597000" />
+      <workItem from="1704195581481" duration="21970000" />
     </task>
     <servers />
   </component>
