@@ -5,28 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9d2eff33-40e6-4f50-9410-6203be379c19" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/arrays/ArrayOfProduct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/arrays/BestSeat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/arrays/FirstDuplicateValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/arrays/LongestPeak.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/arrays/MajorityElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/arrays/MergeOverlappingIntervals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/arrays/MinRewards.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/arrays/MissingNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/arrays/MonotonicArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/arrays/MoveElementToTheEnd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/arrays/NonConstructibleChange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/arrays/SmallestDifference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/arrays/SortedSquareArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/arrays/SpiralTraverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/arrays/SweetAndSavory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/arrays/ThreeNumberSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/arrays/TournamentWinner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/arrays/TransposeMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/arrays/TwoNumberSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/arrays/ValidateSubSequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/arrays/ZeroSumSubArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/arrays/FourNumberSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/arrays/LargestRange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/arrays/LongestSubArrayWithSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/arrays/SubsortArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/arrays/MinRewards.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/arrays/MinRewards.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/algoexpert/arrays/SweetAndSavory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/algoexpert/arrays/SweetAndSavory.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,9 +67,9 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.SweetAndSavory">
-    <configuration name="BestSeat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.algoexpert.arrays.BestSeat" />
+  <component name="RunManager" selected="Application.SubsortArray">
+    <configuration name="FourNumberSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.algoexpert.arrays.FourNumberSum" />
       <module name="strings" />
       <extension name="coverage">
         <pattern>
@@ -96,8 +81,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MajorityElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.algoexpert.arrays.MajorityElements" />
+    <configuration name="LargestRange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.algoexpert.arrays.LargestRange" />
       <module name="strings" />
       <extension name="coverage">
         <pattern>
@@ -109,8 +94,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeOverlappingIntervals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.algoexpert.arrays.MergeOverlappingIntervals" />
+    <configuration name="MinRewards" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.algoexpert.arrays.MinRewards" />
       <module name="strings" />
       <extension name="coverage">
         <pattern>
@@ -122,8 +107,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MissingNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.algoexpert.arrays.MissingNumber" />
+    <configuration name="SubsortArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.algoexpert.arrays.SubsortArray" />
       <module name="strings" />
       <extension name="coverage">
         <pattern>
@@ -150,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SubsortArray" />
+        <item itemvalue="Application.FourNumberSum" />
+        <item itemvalue="Application.LargestRange" />
+        <item itemvalue="Application.MinRewards" />
         <item itemvalue="Application.SweetAndSavory" />
-        <item itemvalue="Application.MajorityElements" />
-        <item itemvalue="Application.MissingNumber" />
-        <item itemvalue="Application.BestSeat" />
-        <item itemvalue="Application.MergeOverlappingIntervals" />
       </list>
     </recent_temporary>
   </component>
@@ -178,7 +163,8 @@
       <workItem from="1702395895303" duration="16529000" />
       <workItem from="1703498537648" duration="13489000" />
       <workItem from="1704080068618" duration="597000" />
-      <workItem from="1704195581481" duration="21970000" />
+      <workItem from="1704195581481" duration="42164000" />
+      <workItem from="1706095280617" duration="3268000" />
     </task>
     <servers />
   </component>
