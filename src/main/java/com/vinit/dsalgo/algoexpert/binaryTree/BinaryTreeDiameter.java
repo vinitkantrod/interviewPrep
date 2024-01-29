@@ -43,6 +43,5 @@ public class BinaryTreeDiameter {
     public static void main(String[] args) {
         BinaryTree r = new BinaryTree(1);
         r.left = new BinaryTree(3);
-        r.right = new BinaryTree()
     }
 }
