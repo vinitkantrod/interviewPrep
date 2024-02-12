@@ -5,13 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9d2eff33-40e6-4f50-9410-6203be379c19" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/binaryTree/InsertIntoBT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/binaryTree/LevelOrderTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/binaryTree/MaxPathSumInBT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/binaryTree/SizeOfBT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/binaryTree/SplitBT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/interviewPrep.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Roshni/findWordsContaining.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Roshni/sumOddLengthSubarrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/binarySearchTree/BSTTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/binarySearchTree/ClosestValueInBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/binarySearchTree/MinHeightBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/binarySearchTree/ValidateBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/linkedlist/DesignHashSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/linkedlist/LinkedListConstruction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/linkedlist/MergingLL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/linkedlist/MiddleNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/linkedlist/RemoveDuplicatesFromLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/linkedlist/RemoveKthNodeFromTheEnd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/linkedlist/SumOfLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/arrays/leetcode/FirstUniqueCharacterInString387.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/hashtable/leetcode/SortCharatersByFreq451.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/strings/leetcode/ValidWordAbbrevation408.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/binaryTree/PostOrderIterative.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/binaryTree/PostOrderIterative.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/algoexpert/binaryTree/MaxPathSumInBT$BinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/algoexpert/binaryTree/MaxPathSumInBT$BinaryTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/algoexpert/binaryTree/MaxPathSumInBT$ResultPair.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/algoexpert/binaryTree/MaxPathSumInBT.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/algoexpert/binaryTree/MaxPathSumInBT.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +70,7 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/vinit.kantrod/project/interview/interviewPrep&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/TempUser/project/interviewPrep&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -65,16 +79,17 @@
     &quot;project.structure.last.edited&quot;: &quot;Problems&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MaxPathSumInBT">
-    <configuration name="InsertIntoBT" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.algoexpert.binaryTree.InsertIntoBT" />
+  <component name="RunManager" selected="Application.LinkedListConstruction">
+    <configuration name="FirstUniqueCharacterInString387" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.arrays.leetcode.FirstUniqueCharacterInString387" />
       <module name="strings" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.vinit.dsalgo.algoexpert.binaryTree.*" />
+          <option name="PATTERN" value="com.vinit.dsalgo.arrays.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LevelOrderTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.algoexpert.binaryTree.LevelOrderTraversal" />
+    <configuration name="LinkedListConstruction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.algoexpert.linkedlist.LinkedListConstruction" />
       <module name="strings" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.vinit.dsalgo.algoexpert.binaryTree.*" />
+          <option name="PATTERN" value="com.vinit.dsalgo.algoexpert.linkedlist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PostOrderIterative" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.algoexpert.binaryTree.PostOrderIterative" />
+    <configuration name="SortCharatersByFreq451" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.hashtable.leetcode.SortCharatersByFreq451" />
       <module name="strings" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.vinit.dsalgo.algoexpert.binaryTree.*" />
+          <option name="PATTERN" value="com.vinit.dsalgo.hashtable.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,12 +136,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SizeOfBT" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.algoexpert.binaryTree.SizeOfBT" />
+    <configuration name="findWordsContaining" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Roshni.findWordsContaining" />
       <module name="strings" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.vinit.dsalgo.algoexpert.binaryTree.*" />
+          <option name="PATTERN" value="Roshni.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LinkedListConstruction" />
+        <item itemvalue="Application.SortCharatersByFreq451" />
+        <item itemvalue="Application.FirstUniqueCharacterInString387" />
+        <item itemvalue="Application.findWordsContaining" />
         <item itemvalue="Application.MaxPathSumInBT" />
-        <item itemvalue="Application.SizeOfBT" />
-        <item itemvalue="Application.InsertIntoBT" />
-        <item itemvalue="Application.LevelOrderTraversal" />
-        <item itemvalue="Application.PostOrderIterative" />
       </list>
     </recent_temporary>
   </component>
@@ -168,6 +183,8 @@
       <workItem from="1706095280617" duration="3268000" />
       <workItem from="1706165501095" duration="21505000" />
       <workItem from="1706505724184" duration="8310000" />
+      <workItem from="1706865617196" duration="12380000" />
+      <workItem from="1707282177965" duration="21624000" />
     </task>
     <servers />
   </component>
@@ -177,5 +194,9 @@
   <component name="VgoProject">
     <integration-enabled>false</integration-enabled>
     <settings-migrated>true</settings-migrated>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
