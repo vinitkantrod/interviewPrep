@@ -5,12 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9d2eff33-40e6-4f50-9410-6203be379c19" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/linkedlist/MergeLL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/linkedlist/ReverseLL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/linkedlist/ShiftLL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/stack/BalanceBrackets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/stack/BestDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/stack/MinMaxStackConstruction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/stack/SortStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/stack/SunsetView.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/linkedlist/FindLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/linkedlist/FindLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/linkedlist/LinkedListConstruction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/linkedlist/LinkedListConstruction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/algoexpert/linkedlist/LinkedListConstruction$DoublyLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/algoexpert/linkedlist/LinkedListConstruction$DoublyLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/algoexpert/linkedlist/LinkedListConstruction$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/algoexpert/linkedlist/LinkedListConstruction$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/algoexpert/linkedlist/LinkedListConstruction.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/algoexpert/linkedlist/LinkedListConstruction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/algoexpert/linkedlist/ShiftLL.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/algoexpert/linkedlist/ShiftLL.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,13 +72,13 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ShiftLL">
-    <configuration name="FirstUniqueCharacterInString387" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.arrays.leetcode.FirstUniqueCharacterInString387" />
+  <component name="RunManager" selected="Application.SortStack">
+    <configuration name="BalanceBrackets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.algoexpert.stack.BalanceBrackets" />
       <module name="strings" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.vinit.dsalgo.arrays.leetcode.*" />
+          <option name="PATTERN" value="com.vinit.dsalgo.algoexpert.stack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedListConstruction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.algoexpert.linkedlist.LinkedListConstruction" />
+    <configuration name="BestDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.algoexpert.stack.BestDigits" />
       <module name="strings" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.vinit.dsalgo.algoexpert.linkedlist.*" />
+          <option name="PATTERN" value="com.vinit.dsalgo.algoexpert.stack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShiftLL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.algoexpert.linkedlist.ShiftLL" />
+    <configuration name="MinMaxStackConstruction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.algoexpert.stack.MinMaxStackConstruction" />
       <module name="strings" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.vinit.dsalgo.algoexpert.linkedlist.*" />
+          <option name="PATTERN" value="com.vinit.dsalgo.algoexpert.stack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortCharatersByFreq451" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.hashtable.leetcode.SortCharatersByFreq451" />
+    <configuration name="SortStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.algoexpert.stack.SortStack" />
       <module name="strings" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.vinit.dsalgo.hashtable.leetcode.*" />
+          <option name="PATTERN" value="com.vinit.dsalgo.algoexpert.stack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="findWordsContaining" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Roshni.findWordsContaining" />
+    <configuration name="SunsetView" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.algoexpert.stack.SunsetView" />
       <module name="strings" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Roshni.*" />
+          <option name="PATTERN" value="com.vinit.dsalgo.algoexpert.stack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ShiftLL" />
-        <item itemvalue="Application.LinkedListConstruction" />
-        <item itemvalue="Application.SortCharatersByFreq451" />
-        <item itemvalue="Application.FirstUniqueCharacterInString387" />
-        <item itemvalue="Application.findWordsContaining" />
+        <item itemvalue="Application.SortStack" />
+        <item itemvalue="Application.BestDigits" />
+        <item itemvalue="Application.SunsetView" />
+        <item itemvalue="Application.BalanceBrackets" />
+        <item itemvalue="Application.MinMaxStackConstruction" />
       </list>
     </recent_temporary>
   </component>
@@ -170,7 +174,7 @@
       <workItem from="1706505724184" duration="8310000" />
       <workItem from="1706865617196" duration="12380000" />
       <workItem from="1707282177965" duration="24468000" />
-      <workItem from="1707800021699" duration="2383000" />
+      <workItem from="1707800021699" duration="11719000" />
     </task>
     <servers />
   </component>
