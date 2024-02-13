@@ -10,81 +10,68 @@ public class LinkedListConstruction {
             // Write your code here.
             if (head == null) {
                 head = node;
-                head.prev = null;
                 tail = node;
-                tail.next = null;
-            } else {
-                node.next = head;
-                head.prev = node;
-                head = node;
+                return;
             }
+            insertBefore(head, node);
         }
 
         public void setTail(Node node) {
             // Write your code here.
-            if (head == null) {
-                head = node;
-                tail = node;
-                tail.next = null;
-            } else {
-                tail.next = node;
-                node.prev = tail;
-                tail = node;
-                tail.next = null;
+            if (tail == null) {
+                setHead(node);
+                return;
             }
+            insertAfter(tail, node);
         }
 
         public void insertBefore(Node node, Node nodeToInsert) {
-            // Write your code here.
-            if (head.value == node.value) {
-                this.setHead(nodeToInsert);
+            if (nodeToInsert == head && nodeToInsert == tail) return;
+            remove(nodeToInsert);
+            nodeToInsert.prev = node.prev;
+            nodeToInsert.next = node;
+            if (node.prev == null) {
+                head = nodeToInsert;
             } else {
-                Node current = head;
-                while (current.next != null && current.next != node) {
-                    current = current.next;
-                }
-                insertNodeBinding(nodeToInsert, current);
+                node.prev.next = nodeToInsert;
             }
+            node.prev = nodeToInsert;
         }
 
         public void insertAfter(Node node, Node nodeToInsert) {
             // Write your code here.
-            if (tail == node) {
-                this.setTail(nodeToInsert);
-                return;
+            if (nodeToInsert == head && nodeToInsert == tail) return;
+            remove(nodeToInsert);
+            nodeToInsert.prev = node;
+            nodeToInsert.next = node.next;
+            if (node.next == null) {
+                tail = nodeToInsert;
+            } else {
+                node.next.prev = nodeToInsert;
             }
-            insertNodeBinding(nodeToInsert, node);
+            node.next = nodeToInsert;
         }
 
         public void insertAtPosition(int position, Node nodeToInsert) {
-            // Write your code here.
-            Node dummy = new Node(-1);
-            dummy.next = head;
-            Node current = dummy;
-            while (position - 1 > 0 ) {
-                current = current.next;
-                position--;
+            if (position == 1) {
+                setHead(nodeToInsert);
+                return;
             }
-            insertNodeBinding(nodeToInsert, current);
+            Node node = head;
+            int currentPosition = 1;
+            while (node != null && currentPosition++ != position) node = node.next;
+            if (node != null) insertBefore(node, nodeToInsert);
+            else setTail(nodeToInsert);
         }
 
         public void removeNodesWithValue(int value) {
             // Write your code here.
-            if (head.value == value) {
-                head = head.next;
-                removeNodeBinding(head);
-                return;
+            Node node = head;
+            while (node != null) {
+                Node nodeToRemove = node;
+                node = node.next;
+                if (nodeToRemove.value == value) remove(nodeToRemove);
             }
-            if (tail.value == value) {
-                tail = tail.prev;
-                removeNodeBinding(tail);
-                return;
-            }
-            Node current = head;
-            while (current.next.value != value) {
-                current = current.next;
-            }
-            removeNodeBinding(current.next);
         }
 
         public void remove(Node node) {

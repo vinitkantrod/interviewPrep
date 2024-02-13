@@ -5,27 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9d2eff33-40e6-4f50-9410-6203be379c19" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/interviewPrep.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Roshni/findWordsContaining.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Roshni/sumOddLengthSubarrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/binarySearchTree/BSTTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/binarySearchTree/ClosestValueInBST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/binarySearchTree/MinHeightBST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/binarySearchTree/ValidateBST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/linkedlist/DesignHashSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/linkedlist/LinkedListConstruction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/linkedlist/MergingLL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/linkedlist/MiddleNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/linkedlist/RemoveDuplicatesFromLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/linkedlist/RemoveKthNodeFromTheEnd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/linkedlist/SumOfLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/arrays/leetcode/FirstUniqueCharacterInString387.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/hashtable/leetcode/SortCharatersByFreq451.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/strings/leetcode/ValidWordAbbrevation408.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/linkedlist/MergeLL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/linkedlist/ReverseLL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/linkedlist/ShiftLL.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/algoexpert/binaryTree/MaxPathSumInBT$BinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/algoexpert/binaryTree/MaxPathSumInBT$BinaryTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/algoexpert/binaryTree/MaxPathSumInBT$ResultPair.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/algoexpert/binaryTree/MaxPathSumInBT.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/algoexpert/binaryTree/MaxPathSumInBT.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/linkedlist/FindLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/linkedlist/FindLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/linkedlist/LinkedListConstruction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/linkedlist/LinkedListConstruction.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +68,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.LinkedListConstruction">
+  <component name="RunManager" selected="Application.ShiftLL">
     <configuration name="FirstUniqueCharacterInString387" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.arrays.leetcode.FirstUniqueCharacterInString387" />
       <module name="strings" />
@@ -110,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxPathSumInBT" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.algoexpert.binaryTree.MaxPathSumInBT" />
+    <configuration name="ShiftLL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.algoexpert.linkedlist.ShiftLL" />
       <module name="strings" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.vinit.dsalgo.algoexpert.binaryTree.*" />
+          <option name="PATTERN" value="com.vinit.dsalgo.algoexpert.linkedlist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ShiftLL" />
         <item itemvalue="Application.LinkedListConstruction" />
         <item itemvalue="Application.SortCharatersByFreq451" />
         <item itemvalue="Application.FirstUniqueCharacterInString387" />
         <item itemvalue="Application.findWordsContaining" />
-        <item itemvalue="Application.MaxPathSumInBT" />
       </list>
     </recent_temporary>
   </component>
@@ -184,7 +169,8 @@
       <workItem from="1706165501095" duration="21505000" />
       <workItem from="1706505724184" duration="8310000" />
       <workItem from="1706865617196" duration="12380000" />
-      <workItem from="1707282177965" duration="21624000" />
+      <workItem from="1707282177965" duration="24468000" />
+      <workItem from="1707800021699" duration="2383000" />
     </task>
     <servers />
   </component>
