@@ -5,15 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9d2eff33-40e6-4f50-9410-6203be379c19" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/arrays/Candy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/arrays/MazeJumpWayFair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/arrays/RotateArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/arrays/RotateImage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/stack/CollidingAsteroids.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/stack/NextGreaterElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/stack/ReversePolishNotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Roshni/MaxElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/graph/CycleInGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/graph/MinimumPassesOfMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/graph/RemoveIsland.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/graph/RiverSizes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/graph/SingleCycleCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/graph/YoungestCommonAncestor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/sorting/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/sorting/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/sorting/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/sorting/SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/sorting/ThreeNumberSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/interviews/pocketfm/pocketfmOne.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/algoexpert/stack/SortStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/algoexpert/stack/SortStack.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,13 +76,13 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.RotateImage">
-    <configuration name="Candy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.algoexpert.arrays.Candy" />
+  <component name="RunManager" selected="Application.QuickSort">
+    <configuration name="InsertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.algoexpert.sorting.InsertionSort" />
       <module name="strings" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.vinit.dsalgo.algoexpert.arrays.*" />
+          <option name="PATTERN" value="com.vinit.dsalgo.algoexpert.sorting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CollidingAsteroids" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.algoexpert.stack.CollidingAsteroids" />
+    <configuration name="MaxElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Roshni.MaxElement" />
       <module name="strings" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.vinit.dsalgo.algoexpert.stack.*" />
+          <option name="PATTERN" value="Roshni.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MazeJumpWayFair" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.algoexpert.arrays.MazeJumpWayFair" />
+    <configuration name="MinimumPassesOfMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.algoexpert.graph.MinimumPassesOfMatrix" />
       <module name="strings" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.vinit.dsalgo.algoexpert.arrays.*" />
+          <option name="PATTERN" value="com.vinit.dsalgo.algoexpert.graph.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RotateArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.algoexpert.arrays.RotateArray" />
+    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.algoexpert.sorting.QuickSort" />
       <module name="strings" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.vinit.dsalgo.algoexpert.arrays.*" />
+          <option name="PATTERN" value="com.vinit.dsalgo.algoexpert.sorting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,12 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RotateImage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.algoexpert.arrays.RotateImage" />
+    <configuration name="ThreeNumberSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.algoexpert.sorting.ThreeNumberSort" />
       <module name="strings" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.vinit.dsalgo.algoexpert.arrays.*" />
+          <option name="PATTERN" value="com.vinit.dsalgo.algoexpert.sorting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,11 +144,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RotateImage" />
-        <item itemvalue="Application.CollidingAsteroids" />
-        <item itemvalue="Application.MazeJumpWayFair" />
-        <item itemvalue="Application.Candy" />
-        <item itemvalue="Application.RotateArray" />
+        <item itemvalue="Application.QuickSort" />
+        <item itemvalue="Application.ThreeNumberSort" />
+        <item itemvalue="Application.InsertionSort" />
+        <item itemvalue="Application.MinimumPassesOfMatrix" />
+        <item itemvalue="Application.MaxElement" />
       </list>
     </recent_temporary>
   </component>
@@ -173,7 +178,7 @@
       <workItem from="1706505724184" duration="8310000" />
       <workItem from="1706865617196" duration="12380000" />
       <workItem from="1707282177965" duration="24468000" />
-      <workItem from="1707800021699" duration="23663000" />
+      <workItem from="1707800021699" duration="59228000" />
     </task>
     <servers />
   </component>
@@ -187,5 +192,10 @@
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
     <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/interviewPrep$RemoveIsland.ic" NAME="RemoveIsland Coverage Results" MODIFIED="1708098677561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.vinit.dsalgo.algoexpert.graph.*</FILTER>
+    </SUITE>
   </component>
 </project>
