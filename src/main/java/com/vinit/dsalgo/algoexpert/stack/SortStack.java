@@ -11,35 +11,25 @@ public class SortStack {
     public static ArrayList<Integer> sortStack(ArrayList<Integer> stack) {
         // difficult to make solution
         // Write your code here.
-        return new ArrayList<>();
+        if (stack.size() == 0) return stack;
+        int top = stack.remove(stack.size() - 1);
+        System.out.println("top: " + top);
+        sortStack(stack);
+        insertInSortedStack(stack, top);
+        return stack;
     }
-
-    private static void sort(ArrayList<Integer> stack, Stack<Integer> tempStack) {
-        if (!stack.isEmpty()) {
-//            System.out.println(List.of(stack) + " | " + List.of(tempStack));
-            Integer i = stack.remove(stack.size() - 1);
-            tempStack.add(i);
-            sort(stack, tempStack);
-        } else {
-            System.out.println("<<<<<<<<<<<<empty>>>>>>>>>>>>");
-            if (stack.isEmpty() && !tempStack.isEmpty()) {
-                Integer i = tempStack.pop();
-                stack.add(i);
-            } else {
-                Stack<Integer> currHolding = new Stack<>();
-                while (stack.get(stack.size() - 1) > tempStack.peek()) {
-                    currHolding.push(stack.remove(stack.size() - 1));
-                }
-                stack.add(stack.size() - 1, tempStack.pop());
-                System.out.println(List.of(stack) + " | " + List.of(tempStack));
-                while (!currHolding.isEmpty()) {
-                    stack.add(stack.size() - 1, currHolding.pop());
-                }
-                System.out.println(List.of(stack) + " | " + List.of(tempStack));
-            }
+    private static void insertInSortedStack(ArrayList<Integer> stack, int value) {
+        if (stack.size() == 0 || stack.get(stack.size() - 1) <= value) {
+            stack.add(value);
+            System.out.println("Return Stack: " + List.of(stack));
+            return;
         }
+        int top = stack.remove(stack.size() - 1);
+        System.out.println("I top: " + top);
+        insertInSortedStack(stack, value);
+        stack.add(top);
+        System.out.println("R: " + List.of(stack));
     }
-
     public static void main(String[] args) {
         ArrayList<Integer> s = new ArrayList<>(Arrays.asList(-5,2,-2,4,3,1));
         System.out.println(List.of(sortStack(s)));
