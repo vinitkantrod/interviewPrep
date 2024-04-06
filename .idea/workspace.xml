@@ -4,95 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9d2eff33-40e6-4f50-9410-6203be379c19" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/assessment/facebook/ClosestNodeBSTTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/assessment/facebook/FileSystemPath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/assessment/random/LongestSubStringWithRepeatedCharacter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/assessment/random/TwoNArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/slidingwindow/leetcode/SubStringOfSizeThree1876.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/calendarSystem/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/calendarSystem/CustomCalendar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/calendarSystem/EventObserver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/calendarSystem/PQ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/calendarSystem/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/calendarSystem/enums/EventStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/calendarSystem/enums/EventType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/calendarSystem/events/Event.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/design/concurrency/runnableWay/AnonymousThreadExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/design/concurrency/runnableWay/ExecutorServiceExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/design/concurrency/runnableWay/RaceConditionExamples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/design/concurrency/runnableWay/RunnableExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/design/concurrency/runnableWay/RunnableImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/design/concurrency/threadWay/ThreadImplementation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/design/javaStreams/PracticeJavaStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/design/pattern/behavioral/chainOfResponsibility/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/design/pattern/behavioral/chainOfResponsibility/Log/DebugLogProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/design/pattern/behavioral/chainOfResponsibility/Log/ErrorLogProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/design/pattern/behavioral/chainOfResponsibility/Log/InfoLogProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/design/pattern/behavioral/chainOfResponsibility/Log/LogProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/design/pattern/behavioral/chainOfResponsibility/Log/TraceLogProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/design/pattern/behavioral/chainOfResponsibility/Log/WarningLogProcessor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/design/pattern/behavioral/chainOfResponsibility/enums/LogLevel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/design/pattern/behavioral/chainOfResponsibility/sink/ConsoleSink.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/design/pattern/behavioral/chainOfResponsibility/sink/FileSink.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/design/pattern/behavioral/chainOfResponsibility/sink/LogSinkI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/design/pattern/parkingLot/BikeParkingSpot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/design/pattern/parkingLot/BikeVehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/design/pattern/parkingLot/BikeVehicleSpot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/design/pattern/parkingLot/CarParkingSpot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/design/pattern/parkingLot/CarVehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/design/pattern/parkingLot/CarVehicleSpot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/design/pattern/parkingLot/Command.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/design/pattern/parkingLot/CommandI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/design/pattern/parkingLot/GetId.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/design/pattern/parkingLot/ParkingBuilderI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/design/pattern/parkingLot/ParkingClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/design/pattern/parkingLot/ParkingFloor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/design/pattern/parkingLot/ParkingFloorBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/design/pattern/parkingLot/ParkingFloorI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/design/pattern/parkingLot/ParkingSpace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/design/pattern/parkingLot/ParkingSpot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/design/pattern/parkingLot/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/design/pattern/parkingLot/VehicleSpot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/design/pattern/parkingLot/floors/floor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/design/problems/logClient/LogClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/design/problems/logClient/LoggerImplementation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/design/problems/logClient/LoggerMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/design/problems/logClient/Process.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dp/mergeIntervals/BurstBalloons.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dp/mergeIntervals/UniqueBinarySearchTrees.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/arrays/leetcode/ArithematicSliceSubsequence446.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/arrays/leetcode/ArithematicSlices413.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/arrays/leetcode/LengthOfLongestSubarrayWithFreqk2958.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/arrays/leetcode/NumberOfZeroFilledSubArray2348.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/strings/leetcode/GenerateParantheses22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/subset/AllPossibleSubset.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/subset/CombinationSumThree216.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/subset/CombinationSumTwo40.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/subset/CombinationsOfKNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/subset/LetterCombinations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/subset/SubsetTwo90.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/trees/leetcode/PostOrderAndInorderTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/trees/leetcode/VerticalOrderTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/vinit/design/pattern/behavioral/chainOfResponsibility/CoRClientTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/google/assesment/ArrayForm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/google/assesment/MatrixSum.java" afterDir="false" />
+    <list default="true" id="b6deecb2-d167-4415-9577-4581c2aa5a8a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/slidingwindow/leetcode/SubStringWithConcatenationOfAllWord30.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/stack/algoexpert/ShortestPath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/stack/algoexpert/ShortestPath.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/calendarSystem/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/calendarSystem/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/calendarSystem/events/Event.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/calendarSystem/events/Event.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/stack/algoexpert/ShortestPath.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/stack/algoexpert/ShortestPath.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/vinit/dp/maxmin/PerfectSquare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dp/maxmin/PerfectSquare.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/stack/SortStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/vinit/dsalgo/algoexpert/stack/SortStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dp/maxmin/PerfectSquare.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dp/maxmin/PerfectSquare.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/algoexpert/stack/SortStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/algoexpert/stack/SortStack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/algoexpert/strings/FirstNonRepeatingCharacters.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/algoexpert/strings/FirstNonRepeatingCharacters.class" afterDir="false" />
-=======
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/calendarSystem/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/calendarSystem/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/calendarSystem/events/Event.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/calendarSystem/events/Event.class" afterDir="false" />
->>>>>>> 9924c7c36be5e2db4beadfb703929e4e0753c8ba
+      <change beforePath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/assessment/random/TwoNArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/vinit/dsalgo/assessment/random/TwoNArray.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,202 +17,28 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
-        <option value="JUnit5 Test Class" />
-        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="GoLibraries">
-    <option name="indexEntireGoPath" value="true" />
-  </component>
-  <component name="MarkdownSettingsMigration">
-    <option name="stateVersion" value="1" />
-  </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 5
-}</component>
-  <component name="ProjectId" id="2RtFOm4u2GAtS5cnz6mmtANYirD" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
-  <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showLibraryContents" value="true" />
-  </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Application.ClosestNodeBSTTest.executor": "Run",
-    "Application.FileSystemPath.executor": "Run",
-    "Application.ShortestPath.executor": "Run",
-    "Application.TwoNArray.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.go.formatter.settings.were.checked": "true",
-    "RunOnceActivity.go.migrated.go.modules.settings": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "Application.SubStringWithConcatenationOfAllWord30.executor": "Run",
     "git-widget-placeholder": "main",
-    "go.import.settings.migrated": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/roshnib.48/Projects/interviewPrep",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
-    "vue.rearranger.settings.migration": "true"
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.go.formatter.settings.were.checked": "true",
-    "RunOnceActivity.go.migrated.go.modules.settings": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "git-widget-placeholder": "main",
-    "go.import.settings.migrated": "true",
-    "last_opened_file_path": "/Users/TempUser/project/interviewPrep",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Problems",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
-    "vue.rearranger.settings.migration": "true"
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/TempUser/project/interviewPrep&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Problems&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
-}</component>
-  <component name="RecentsManager">
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
-    <key name="CreateTestDialog.RecentsKey">
-      <recent name="com.vinit.design.pattern.behavioral.chainOfResponsibility" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.vinit.design.pattern.behavioral.chainOfResponsibility.Log" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Application.TwoNArray">
-    <configuration name="ClosestNodeBSTTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.assessment.facebook.ClosestNodeBSTTest" />
-  <component name="RunManager" selected="Application.com.vinit.calendarSystem.Client">
-    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vinit.design.pattern.behavioral.chainOfResponsibility.Client" />
-  <component name="RunManager" selected="Application.ArrayForm">
-    <configuration name="ArrayForm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.google.assesment.ArrayForm" />
+}]]></component>
+  <component name="RunManager">
+    <configuration name="SubStringWithConcatenationOfAllWord30" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.slidingwindow.leetcode.SubStringWithConcatenationOfAllWord30" />
       <module name="strings" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.vinit.dsalgo.assessment.facebook.*" />
-          <option name="PATTERN" value="com.vinit.design.pattern.behavioral.chainOfResponsibility.*" />
-          <option name="PATTERN" value="com.vinit.dsalgo.google.assesment.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FileSystemPath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.assessment.facebook.FileSystemPath" />
-    <configuration name="NumberOfZeroFilledSubArray2348" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.arrays.leetcode.NumberOfZeroFilledSubArray2348" />
-    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vinit.design.pattern.behavioral.chainOfResponsibility.Client" />
-      <module name="strings" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.vinit.dsalgo.assessment.facebook.*" />
-          <option name="PATTERN" value="com.vinit.dsalgo.arrays.leetcode.*" />
-          <option name="PATTERN" value="com.vinit.design.pattern.behavioral.chainOfResponsibility.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ShortestPath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.stack.algoexpert.ShortestPath" />
-    <configuration name="ParkingClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vinit.design.pattern.parkingLot.ParkingClient" />
-      <configuration name="MatrixSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.google.assesment.MatrixSum" />
-      <module name="strings" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.vinit.dsalgo.stack.algoexpert.*" />
-          <option name="PATTERN" value="com.vinit.design.pattern.parkingLot.*" />
-          <option name="PATTERN" value="com.vinit.dsalgo.google.assesment.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TwoNArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vinit.dsalgo.assessment.random.TwoNArray" />
-      <module name="strings" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.vinit.dsalgo.assessment.random.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="com.vinit.calendarSystem.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.vinit.calendarSystem.Client" />
-      <module name="strings" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.vinit.calendarSystem.*" />
+          <option name="PATTERN" value="com.vinit.dsalgo.slidingwindow.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -307,85 +48,15 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TwoNArray" />
-        <item itemvalue="Application.ShortestPath" />
-        <item itemvalue="Application.ClosestNodeBSTTest" />
-        <item itemvalue="Application.FileSystemPath" />
-        <item itemvalue="Application.ArrayForm" />
-        <item itemvalue="Application.MatrixSum" />
-        <item itemvalue="Application.com.vinit.calendarSystem.Client" />
-        <item itemvalue="Application.Client" />
-        <item itemvalue="Application.PerfectSquare" />
-        <item itemvalue="Application.ParkingClient" />
-        <item itemvalue="Application.NumberOfZeroFilledSubArray2348" />
-        <item itemvalue="Application.Client" />
-        <item itemvalue="Application.PerfectSquare" />
+        <item itemvalue="Application.SubStringWithConcatenationOfAllWord30" />
       </list>
     </recent_temporary>
   </component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="jdk-1.8.0_402-corretto-1.8.0_402-4caba194b151-995e55e7" />
-        <option value="jdk-17.0.10-corretto-17.0.10-4caba194b151-53826d6a" />
-      </set>
-    </attachedChunks>
-  </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="9d2eff33-40e6-4f50-9410-6203be379c19" name="Changes" comment="" />
-      <created>1688061441102</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1688061441102</updated>
-      <workItem from="1694013478101" duration="6409000" />
-      <workItem from="1697127421980" duration="1262000" />
-      <workItem from="1697549304209" duration="1631000" />
-      <workItem from="1697790353278" duration="773000" />
-      <workItem from="1698487260797" duration="608000" />
-      <workItem from="1698678672796" duration="2396000" />
-      <workItem from="1699411642773" duration="2263000" />
-      <workItem from="1700479161823" duration="7156000" />
-      <workItem from="1700752350709" duration="2277000" />
-      <workItem from="1702395895303" duration="16529000" />
-      <workItem from="1703498537648" duration="13489000" />
-      <workItem from="1704080068618" duration="597000" />
-      <workItem from="1704195581481" duration="42164000" />
-      <workItem from="1706095280617" duration="3268000" />
-      <workItem from="1706165501095" duration="21505000" />
-      <workItem from="1706505724184" duration="8310000" />
-      <workItem from="1706865617196" duration="12380000" />
-      <workItem from="1707282177965" duration="24468000" />
-      <workItem from="1707800021699" duration="86537000" />
-      <workItem from="1708764814481" duration="74822000" />
-      <workItem from="1711012387075" duration="8858000" />
-      <workItem from="1711356704329" duration="4638000" />
-      <workItem from="1711426171883" duration="597000" />
-      <workItem from="1711529568580" duration="17395000" />
-      <workItem from="1711952292425" duration="8414000" />
-      <workItem from="1712162289607" duration="153000" />
-      <workItem from="1712289444754" duration="5178000" />
-      <workItem from="1711952292425" duration="8414000" />
-      <workItem from="1711952292425" duration="9131000" />
-      <workItem from="1712243306838" duration="3392000" />
-    </task>
     <servers />
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
-  </component>
-  <component name="VgoProject">
-    <integration-enabled>false</integration-enabled>
-    <settings-migrated>true</settings-migrated>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
     <select />
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/interviewPrep$RemoveIsland.ic" NAME="RemoveIsland Coverage Results" MODIFIED="1708098677561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>com.vinit.dsalgo.algoexpert.graph.*</FILTER>
-    </SUITE>
   </component>
 </project>
